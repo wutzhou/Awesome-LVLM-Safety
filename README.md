@@ -1,27 +1,7 @@
-<style>
-details {
-    background-color: #f4f4f4;
-    padding: 10px;
-    border-radius: 5px;
-}
+# 🤗🤗🤗 Awesome LVLM Safety [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License](https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/) [![GitHub stars](https://img.shields.io/github/stars/XuankunRong/Awesome-LVLM-Safety?style=social)](https://github.com/XuankunRong/Awesome-LVLM-Safety)
 
-summary {
-    font-weight: bold;
-    cursor: pointer;
-}
-
-summary:hover {
-    color: #007acc;
-}
-</style>
-
-# 🔬 Awesome LVLM Safety [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
-> Curated list of Multimodal AI Safety resources, aligned with our survey:
+> Curated list of Large Vision-Language Model Safety resources, aligned with our survey:  
 > **A Survey of Safety on Large Vision-Language Models: Attacks, Defenses and Evaluations**
-
-[![GitHub stars](https://img.shields.io/github/stars/XuankunRong/Awesome-LVLM-Safety?style=social)](https://github.com/XuankunRong/Awesome-LVLM-Safety)
-[![License](https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
 ## 📜 Table of Contents
 
