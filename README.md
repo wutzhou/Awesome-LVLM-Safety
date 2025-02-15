@@ -4,13 +4,13 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <img src="https://badges.toozhao.com/badges/01JM4JCV43N3ARA3BC25QSBH0S/blue.svg" /> [![License](https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/) [![GitHub stars](https://img.shields.io/github/stars/XuankunRong/Awesome-LVLM-Safety?style=social)](https://github.com/XuankunRong/Awesome-LVLM-Safety)
 
-## 📜 Table of Contents
+<h2> 📜 Table of Contents </h2>
 
 - [Attacks](#attacks)
 - [Defenses](#defenses)
 - [Evaluations](#evaluations)
 
-<h2> <img src="assets/attack.png" alt="Icon" width="20" style="vertical-align:middle"/> Attacks </h2>
+<h2 id="attacks"> <img src="assets/attack.png" alt="Icon" width="20" style="vertical-align:middle"/> Attacks </h2>
 
 * **[2023.05.26]** **[On Evaluating Adversarial Robustness of Large Vision-Language Models](https://arxiv.org/abs/2305.16934)**
   * Yunqing Zhao, Tianyu Pang, Chao Du, Xiao Yang, Chongxuan Li, Ngai-Man Cheung, Min Lin
@@ -187,7 +187,7 @@
   * Sun Yat-Sen University, Nanyang Technological University, Alibaba Group, Zhejiang University
   * [arXiv'24]
 
-<h2> <img src="assets/defense.png" alt="Icon" width="18" style="vertical-align:middle"/> Defenses </h2>
+<h2 id="defenses"> <img src="assets/defense.png" alt="Icon" width="18" style="vertical-align:middle"/> Defenses </h2>
 
 * **[2023.11.16]** **[DRESS: Instructing Large Vision-Language Models to Align and Interact with Humans via Natural Language Feedback](https://arxiv.org/abs/2311.10081)**
   * Yangyi Chen, Karan Sikka, Michael Cogswell, Heng Ji, Ajay Divakaran
@@ -306,7 +306,7 @@
   * Zhejiang University, Nanyang Technological University, A*STAR, Shanghai Jiao Tong University, National University of Singapore
   * [arXiv'24]
 
-<h2> <img src="assets/evaluation.png" alt="Icon" width="27" style="vertical-align:middle"/> Evaluations </h2>
+<h2 id="evaluations"> <img src="assets/evaluation.png" alt="Icon" width="27" style="vertical-align:middle"/> Evaluations </h2>
 
 * **[2023.11.27]** **[How Many Unicorns Are in This Image? A Safety Evaluation Benchmark for Vision LLMs](https://arxiv.org/abs/2311.16101)**
   * Haoqin Tu, Chenhang Cui, Zijun Wang, Yiyang Zhou, Bingchen Zhao, Junlin Han, Wangchunshu Zhou, Huaxiu Yao, Cihang Xie
@@ -368,3 +368,11 @@
   * Zonghao Ying, Aishan Liu, Siyuan Liang, Lei Huang, Jinyang Guo, Wenbo Zhou, Xianglong Liu, Dacheng Tao
   * Beihang University, National University of Singapore, Zhongguancun Laboratory, Hefei Comprehensive National Science Center, University of Science and Technology of China, Nanyang Technological University, Singapore
   * [arXiv'24]
+
+<h2> Citation </h2>
+
+Please kindly cite these papers in your publications if it helps your research:
+
+```
+
+```
