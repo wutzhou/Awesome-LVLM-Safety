@@ -1,16 +1,21 @@
 <h1 align="center">🤗🤗🤗 Awesome-LVLM-Safety 🤗🤗🤗</h1>
 
-<p align="center">Curated list of Large Vision-Language Model Safety resources, aligned with our survey:<br><strong>A Survey of Safety on Large Vision-Language Models: Attacks, Defenses and Evaluations</p>
+<p align="center"><em>Curated list of Large Vision-Language Model Safety resources, aligned with our work:</em><br><strong>A Survey of Safety on Large Vision-Language Models: Attacks, Defenses and Evaluations</p>
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <img src="https://badges.toozhao.com/badges/01JM4JCV43N3ARA3BC25QSBH0S/blue.svg" /> [![License](https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/) [![GitHub stars](https://img.shields.io/github/stars/XuankunRong/Awesome-LVLM-Safety?style=social)](https://github.com/XuankunRong/Awesome-LVLM-Safety)
 
 <h2> 📜 Table of Contents </h2>
 
-- [Attacks](#attacks)
-- [Defenses](#defenses)
-- [Evaluations](#evaluations)
+- [Awesome Paper](#awesome-papers)
+  - [Attacks](#attacks)
+  - [Defenses](#defenses)
+  - [Evaluations](#evaluations)
+- [Contact](#contact)
+- [Citation](#citation)
 
-<h2 id="attacks"> <img src="assets/attack.png" alt="Icon" width="20" style="vertical-align:middle"/> Attacks </h2>
+<h2 id="awesome-papers"> 👑 Awesome Papers </h2>
+
+<h3 id="attacks"> <img src="assets/attack.png" alt="Icon" width="20" style="vertical-align:middle"/> Attacks </h3>
 
 * **[2023.05.26]** **[On Evaluating Adversarial Robustness of Large Vision-Language Models](https://arxiv.org/abs/2305.16934)**
   * Yunqing Zhao, Tianyu Pang, Chao Du, Xiao Yang, Chongxuan Li, Ngai-Man Cheung, Min Lin
@@ -187,7 +192,7 @@
   * Sun Yat-Sen University, Nanyang Technological University, Alibaba Group, Zhejiang University
   * [arXiv'24]
 
-<h2 id="defenses"> <img src="assets/defense.png" alt="Icon" width="18" style="vertical-align:middle"/> Defenses </h2>
+<h3 id="defenses"> <img src="assets/defense.png" alt="Icon" width="18" style="vertical-align:middle"/> Defenses </h3>
 
 * **[2023.11.16]** **[DRESS: Instructing Large Vision-Language Models to Align and Interact with Humans via Natural Language Feedback](https://arxiv.org/abs/2311.10081)**
   * Yangyi Chen, Karan Sikka, Michael Cogswell, Heng Ji, Ajay Divakaran
@@ -306,7 +311,7 @@
   * Zhejiang University, Nanyang Technological University, A*STAR, Shanghai Jiao Tong University, National University of Singapore
   * [arXiv'24]
 
-<h2 id="evaluations"> <img src="assets/evaluation.png" alt="Icon" width="27" style="vertical-align:middle"/> Evaluations </h2>
+<h3 id="evaluations"> <img src="assets/evaluation.png" alt="Icon" width="27" style="vertical-align:middle"/> Evaluations </h3>
 
 * **[2023.11.27]** **[How Many Unicorns Are in This Image? A Safety Evaluation Benchmark for Vision LLMs](https://arxiv.org/abs/2311.16101)**
   * Haoqin Tu, Chenhang Cui, Zijun Wang, Yiyang Zhou, Bingchen Zhao, Junlin Han, Wangchunshu Zhou, Huaxiu Yao, Cihang Xie
@@ -369,13 +374,13 @@
   * Beihang University, National University of Singapore, Zhongguancun Laboratory, Hefei Comprehensive National Science Center, University of Science and Technology of China, Nanyang Technological University, Singapore
   * [arXiv'24]
 
-<h2> 👋 Contact </h2> 
+<h2 id="contact"> 👋 Contact </h2> 
 
 This repository is currently maintained by [Xuankun Rong](https://xuankunrong.github.io/) 👨‍💻. If you have any questions, concerns, or suggestions regarding the contents of this repository or the resources shared here, feel free to reach out! I'm more than happy to assist you with any inquiries or help you navigate through the materials. Please don't hesitate to send an email to me at [xuankun.rong@gmail.com](mailto:xuankun.rong@gmail.com) 📧, and I will get back to you as soon as possible. Let's keep improving the **LVLM Safety** community together! 🚀
 
 Looking forward to hearing from you! 😊
 
-<h2> 🥳 Citation </h2>
+<h2 id="citation"> 🥳 Citation </h2>
 
 Please kindly cite these papers in your publications if it helps your research:
 
