@@ -1,6 +1,6 @@
 <h1 align="center">🤗🤗🤗 Awesome-LVLM-Safety 🤗🤗🤗</h1>
 
-<p align="center"><em>Curated list of Large Vision-Language Model Safety resources, aligned with our work:</em><br><strong>A Survey of Safety on Large Vision-Language Models: Attacks, Defenses and Evaluations</p>
+<p align="center"><em>Curated list of Large Vision-Language Model Safety resources, aligned with our work:</em><br><strong>A Survey of Safety on Large Vision-Language Models: Attacks, Defenses and Evaluations</strong>strong</p>
 
 <p align="center">
     <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome Badge"></a>
