@@ -1,4 +1,4 @@
-<h1 align="center">🤗🤗🤗 Awesome LVLM Safety 🤗🤗🤗</h1>
+<h1 align="center">🤗🤗🤗 Awesome-LVLM-Safety 🤗🤗🤗</h1>
 
 <p align="center">Curated list of Large Vision-Language Model Safety resources, aligned with our survey:<br><strong>A Survey of Safety on Large Vision-Language Models: Attacks, Defenses and Evaluations</p>
 
@@ -369,7 +369,13 @@
   * Beihang University, National University of Singapore, Zhongguancun Laboratory, Hefei Comprehensive National Science Center, University of Science and Technology of China, Nanyang Technological University, Singapore
   * [arXiv'24]
 
-<h2> Citation </h2>
+<h2> 👋 Contact </h2> 
+
+This repository is currently maintained by [Xuankun Rong](https://xuankunrong.github.io/) 👨‍💻. If you have any questions, concerns, or suggestions regarding the contents of this repository or the resources shared here, feel free to reach out! I'm more than happy to assist you with any inquiries or help you navigate through the materials. Please don't hesitate to send an email to me at [xuankun.rong@gmail.com](mailto:xuankun.rong@gmail.com) 📧, and I will get back to you as soon as possible. Let's keep improving the **LVLM Safety** community together! 🚀
+
+Looking forward to hearing from you! 😊
+
+<h2> 🥳 Citation </h2>
 
 Please kindly cite these papers in your publications if it helps your research:
 
