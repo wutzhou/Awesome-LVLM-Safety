@@ -39,15 +39,51 @@
   * Tsinghua University, Tencent Technology (Beijing) Co.Ltd, University of Oxford, Tencent Data Platform,  Peng Cheng Laboratory
   * [ICLR'24]
 
-* **[2024.02.13]** Test-Time Backdoor Attacks on Multimodal Large Language Models **(arXiv’24)** [[Paper](https://arxiv.org/abs/2402.08577)] lu2024test
-* **[2024.02.22]** Stop Reasoning! When Multimodal LLM with Chain-of-Thought Reasoning Meets Adversarial Image **(COLM’24)** [[Paper](https://arxiv.org/abs/2402.14899)] wang2024stop
-* **[2024.03.14]** Images are Achilles' Heel of Alignment: Exploiting Visual Vulnerabilities for Jailbreaking Multimodal Large Language Models **(ECCV’24)** [[Paper](https://arxiv.org/abs/2403.09792)] li2024images
-* **[2024.03.14]** An Image Is Worth 1000 Lies: Adversarial Transferability across Prompts on Vision-Language Models **(ICLR’24)** [[Paper](https://arxiv.org/abs/2403.09766)] luo2024image
-* **[2024.05.16]** Adversarial Robustness for Visual Grounding of Multimodal Large Language Models **(ICLR’24 Workshop)** [[Paper](https://arxiv.org/abs/2405.09981)] gao2024adversarial
-* **[2024.05.28]** White-box Multimodal Jailbreaks Against Large Vision-Language Models **(MM’24)** [[Paper](https://arxiv.org/abs/2405.17894)]  wang2024white
-* **[2024.06.06]** Jailbreak Vision Language Models via Bi-Modal Adversarial Prompt **(arXiv’24)** [[Paper](https://arxiv.org/abs/2406.04031)] ying2024jailbreak
-* **[2024.06.19]** Enhancing Cross-Prompt Transferability in Vision-Language Models through Contextual Injection of Target Tokens **(arXiv’24)** [[Paper](https://arxiv.org/abs/2406.13294)] yang2024enhancing
-* **[2024.11.01]** Replace-then-Perturb: Targeted Adversarial Attacks With Visual Reasoning for Vision-Language Models **(arXiv’24)**
+* **[2024.02.13]** **[Test-Time Backdoor Attacks on Multimodal Large Language Models](https://arxiv.org/abs/2402.08577)**
+  * Dong Lu, Tianyu Pang, Chao Du, Qian Liu, Xianjun Yang, Min Lin
+  * Southern University of Science and Technology, Sea AI Lab, University of California
+  * [arXiv'24]
+
+* **[2024.02.22]** **[Stop Reasoning! When Multimodal LLM with Chain-of-Thought Reasoning Meets Adversarial Image](https://arxiv.org/abs/2402.14899)**
+  * Zefeng Wang, Zhen Han, Shuo Chen, Fan Xue, Zifeng Ding, Xun Xiao, Volker Tresp, Philip Torr, Jindong Gu
+  * Technical University of Munich, LMU Munich, Huawei Technologies, University of Oxford
+  * [COLM'24]
+
+* **[2024.03.14]** **[Images are Achilles' Heel of Alignment: Exploiting Visual Vulnerabilities for Jailbreaking Multimodal Large Language Models](https://arxiv.org/abs/2403.09792)**
+  * Yifan Li, Hangyu Guo, Kun Zhou, Wayne Xin Zhao, Ji-Rong Wen
+  * Renmin University of China, Beijing Key Laboratory of Big Data Management and Analysis Methods
+  * [ECCV'24]
+
+* **[2024.03.14]** **[An Image Is Worth 1000 Lies: Adversarial Transferability across Prompts on Vision-Language Models](https://arxiv.org/abs/2403.09766)**
+  * Haochen Luo, Jindong Gu, Fengyuan Liu, Philip Torr
+  * University of Oxford
+  * [ICLR'24]
+
+* **[2024.05.16]** **[Adversarial Robustness for Visual Grounding of Multimodal Large Language Models](https://arxiv.org/abs/2405.09981)**
+  * Kuofeng Gao, Yang Bai, Jiawang Bai, Yong Yang, Shu-Tao Xia
+  * Tsinghua University, Tencent Security Platform, Peng Cheng Laboratory
+  * [ICLR'24 Workshop]
+
+* **[2024.05.28]** **[White-box Multimodal Jailbreaks Against Large Vision-Language Models](https://arxiv.org/abs/2405.17894)**
+  * Ruofan Wang, Xingjun Ma, Hanxu Zhou, Chuanjun Ji, Guangnan Ye, Yu-Gang Jiang
+  * Fudan University, Shanghai Jiaotong University
+  * [MM'24]
+
+* **[2024.06.06]** **[Jailbreak Vision Language Models via Bi-Modal Adversarial Prompt](https://arxiv.org/abs/2406.04031)**
+  * Zonghao Ying, Aishan Liu, Tianyuan Zhang, Zhengmin Yu, Siyuan Liang, Xianglong Liu, Dacheng Tao
+  * Beihang University, Fudan University, National University of Singapore, Nanyang Technological University
+  * [arXiv'24]
+
+* **[2024.06.19]** **[Enhancing Cross-Prompt Transferability in Vision-Language Models through Contextual Injection of Target Tokens](https://arxiv.org/abs/2406.13294)**
+  * Xikang Yang, Xuehai Tang, Fuqing Zhu, Jizhong Han, Songlin Hu
+  * University of Chinese Academy of Sciences
+  * [arXiv'24]
+
+* **[2024.11.01]** **[Replace-then-Perturb: Targeted Adversarial Attacks With Visual Reasoning for Vision-Language Models](https://arxiv.org/abs/2411.00898v1)**
+  * Jonggyu Jang, Hyeonsu Lyu, Jungyeon Koh, Hyun Jong Yang
+  * Seoul National University, Pohang University of Science and Technology
+  * [arXIv'24]
+
 
 <h2> <img src="assets/defense.png" alt="Icon" width="18" style="vertical-align:middle"/> Defenses </h2>
 
