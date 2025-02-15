@@ -2,7 +2,12 @@
 
 <p align="center"><em>Curated list of Large Vision-Language Model Safety resources, aligned with our work:</em><br><strong>A Survey of Safety on Large Vision-Language Models: Attacks, Defenses and Evaluations</p>
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <img src="https://badges.toozhao.com/badges/01JM4JCV43N3ARA3BC25QSBH0S/blue.svg" /> [![License](https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/) [![GitHub stars](https://img.shields.io/github/stars/XuankunRong/Awesome-LVLM-Safety?style=social)](https://github.com/XuankunRong/Awesome-LVLM-Safety)
+<p align="center">
+    <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome Badge"></a>
+    <img src="https://badges.toozhao.com/badges/01JM4JCV43N3ARA3BC25QSBH0S/blue.svg" alt="Custom Badge" />
+    <a href="https://creativecommons.org/licenses/by-nc/4.0/"><img src="https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg" alt="License Badge"></a>
+    <a href="https://github.com/XuankunRong/Awesome-LVLM-Safety"><img src="https://img.shields.io/github/stars/XuankunRong/Awesome-LVLM-Safety?style=social" alt="GitHub stars"></a>
+</p>
 
 <h2> 📜 Table of Contents </h2>
 
