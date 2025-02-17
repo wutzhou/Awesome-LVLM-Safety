@@ -352,6 +352,11 @@
   * Zonghao Ying, Aishan Liu, Siyuan Liang, Lei Huang, Jinyang Guo, Wenbo Zhou, Xianglong Liu, Dacheng Tao
   * Beihang University, National University of Singapore, Zhongguancun Laboratory, Hefei Comprehensive National Science Center, University of Science and Technology of China, Nanyang Technological University, Singapore
   * [arXiv'24]
+* **[2024.11.29]** **[VLSBench: Unveiling Visual Leakage in Multimodal Safety
+](https://arxiv.org/abs/2411.19939)** [![GitHub stars](https://img.shields.io/github/stars/AI45Lab/VLSBench?style=social)](https://github.com/AI45Lab/VLSBench)
+  * Xuhao Hu, Dongrui Liu, Hao Li, Xuanjing Huang, Jing Shao
+  * Shanghai Artificial Intelligence Laboratory, Fudan University, Beihang University
+  * [arXiv'24]
 
 <h2 id="januspro"> 🤖 Evaluation on Janus-Pro </h2>
 
