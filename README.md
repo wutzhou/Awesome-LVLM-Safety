@@ -158,7 +158,12 @@
   * Jonggyu Jang, Hyeonsu Lyu, Jungyeon Koh, Hyun Jong Yang
   * Seoul National University, Pohang University of Science and Technology
   * [arXIv'24]
-* **[2024.12.01]** **[Jailbreak Large Vision-Language Models Through Multi-Modal Linkage](https://arxiv.org/abs/2412.00473v4)** [![GitHub stars](https://img.shields.io/github/stars/wangyu-ovo/MML?style=social)](https://github.com/wangyu-ovo/MML)
+* **[2024.11.18]** **[Safe + Safe = Unsafe? Exploring How Safe Images Can Be Exploited to Jailbreak Large Vision-Language Models
+](https://arxiv.org/abs/2411.11496)** [![GitHub stars](https://img.shields.io/github/stars/matengsysu/himrd-jailbreak?style=social)](https://github.com/matengsysu/himrd-jailbreak)
+  * Chenhang Cui, Gelei Deng, An Zhang, Jingnan Zheng, Yicong Li, Lianli Gao, Tianwei Zhang, Tat-Seng Chua
+  * University of Electronic Science and Technology of China, National University of Singapore, Nanyang Technological University
+  * [arXIv'24]
+* **[2024.12.01]** **[Jailbreak Large Vision-Language Models Through Multi-Modal Linkage](https://arxiv.org/abs/2412.00473v4)** [![GitHub stars](https://img.shields.io/github/stars/gzcch/Safety_Snowball_Agent?style=social)](https://github.com/gzcch/Safety_Snowball_Agent)
   * Yu Wang, Xiaofei Zhou, Yichen Wang, Geyuan Zhang, Tianxing He
   * University of Chinese Academy of Sciences, Tsinghua University, Shanghai Qi Zhi Institute, University of Chicago
   * [arXiv'24]
