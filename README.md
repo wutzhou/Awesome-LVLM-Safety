@@ -285,6 +285,10 @@
   * Qi Zhou, Tianlin Li, Qing Guo, Dongxia Wang, Yun Lin, Yang Liu, Jin Song Dong
   * Zhejiang University, Nanyang Technological University, A*STAR, Shanghai Jiao Tong University, National University of Singapore
   * [arXiv'24]
+* **[2025.01.30]** **[Rethinking Bottlenecks in Safety Fine-Tuning of Vision Language Models](https://arxiv.org/abs/2501.18533v1)** [![GitHub stars](https://img.shields.io/github/stars/DripNowhy/MIS?style=social)](https://github.com/DripNowhy/MIS)
+  * Yi Ding, Lijun Li, Bing Cao, Jing Shao
+  * Shanghai Artificial Intelligence Laboratory, Tianjin University
+  * [arXiv'24]
 
 <h3 id="evaluations"> <img src="assets/evaluation.png" alt="Icon" width="27" style="vertical-align:middle"/> Evaluations </h3>
 
