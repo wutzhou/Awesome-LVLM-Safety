@@ -11,10 +11,11 @@
 
 <h2> 📜 Table of Contents </h2>
 
-- [Awesome Paper](#awesome-papers)
+- [Awesome Papers](#awesome-papers)
   - [Attacks](#attacks)
   - [Defenses](#defenses)
   - [Evaluations](#evaluations)
+- [Evaluation on Janus-Pro](#januspro)
 - [Contact](#contact)
 - [Citation](#citation)
 
@@ -46,7 +47,7 @@
   * Luke Bailey, Euan Ong, Stuart Russell, Scott Emmons
   * Harvard University, Cambridge University , University of California, Berkeley
   * [ICML'24]
-* **[2023.09.20]** **[How Robust is Google's Bard to Adversarial Image Attacks?](https://arxiv.org/abs/2309.11751)** [![GitHub stars](https://img.shields.io/github/stars/thu-ml/attack-bard?style=social)](https://github.com/thu-ml/attack-bard)
+* **[2023.09.20]** **[How Robust is Google&#39;s Bard to Adversarial Image Attacks?](https://arxiv.org/abs/2309.11751)** [![GitHub stars](https://img.shields.io/github/stars/thu-ml/attack-bard?style=social)](https://github.com/thu-ml/attack-bard)
   * Yinpeng Dong, Huanran Chen, Jiawei Chen, Zhengwei Fang, Xiao Yang, Yichi Zhang, Yu Tian, Hang Su, Jun Zhu
   * Tsinghua University, RealAI
   * [NeurIPS'23 Workshop]
@@ -97,7 +98,7 @@
   * Xijia Tao, Shuai Zhong, Lei Li, Qi Liu, Lingpeng Kong
   * The University of Hong Kong
   * [arXiv'24]
-* **[2024.03.14]** **[Images are Achilles' Heel of Alignment: Exploiting Visual Vulnerabilities for Jailbreaking Multimodal Large Language Models](https://arxiv.org/abs/2403.09792)** [![GitHub stars](https://img.shields.io/github/stars/rucaibox/hades?style=social)](https://github.com/rucaibox/hades)
+* **[2024.03.14]** **[Images are Achilles&#39; Heel of Alignment: Exploiting Visual Vulnerabilities for Jailbreaking Multimodal Large Language Models](https://arxiv.org/abs/2403.09792)** [![GitHub stars](https://img.shields.io/github/stars/rucaibox/hades?style=social)](https://github.com/rucaibox/hades)
   * Yifan Li, Hangyu Guo, Kun Zhou, Wayne Xin Zhao, Ji-Rong Wen
   * Renmin University of China, Beijing Key Laboratory of Big Data Management and Analysis Methods
   * [ECCV'24]
@@ -176,7 +177,7 @@
   * Xiaoyu Zhang, Cen Zhang, Tianlin Li, Yihao Huang, Xiaojun Jia, Ming Hu, Jie Zhang, Yang Liu, Shiqing Ma, Chao Shen
   * Xi’an Jiaotong University, Nanyang Technological University, University of Massachusetts
   * [arXiv'23]
-* **[2024.01.05]** **[MLLM-Protector: Ensuring MLLM's Safety without Hurting Performance](https://arxiv.org/abs/2401.02906)** [![GitHub stars](https://img.shields.io/github/stars/pipilurj/MLLM-protector?style=social)](https://github.com/pipilurj/MLLM-protector)
+* **[2024.01.05]** **[MLLM-Protector: Ensuring MLLM&#39;s Safety without Hurting Performance](https://arxiv.org/abs/2401.02906)** [![GitHub stars](https://img.shields.io/github/stars/pipilurj/MLLM-protector?style=social)](https://github.com/pipilurj/MLLM-protector)
   * Renjie Pi, Tianyang Han, Jianshu Zhang, Yueqi Xie, Rui Pan, Qing Lian, Hanze Dong, Jipeng Zhang, Tong Zhang
   * The Hong Kong University of Science and Technology, University of Illinois at Urbana-Champaign, The Hong Kong Polytechnic University
   * [EMNLP'24]
@@ -348,7 +349,25 @@
   * Beihang University, National University of Singapore, Zhongguancun Laboratory, Hefei Comprehensive National Science Center, University of Science and Technology of China, Nanyang Technological University, Singapore
   * [arXiv'24]
 
-<h2 id="contact"> 👋 Contact </h2> 
+<h2 id="januspro"> 🤖 Evaluation on Janus-Pro </h2>
+
+Janus-Pro-7B is the latest LVLM released by DeepSeek, representing a significant advancement over Janus-1B. This new model scales up both the data and model parameters, validating the potential of the original design. DeepSeek’s Janus-Pro integrates unified multimodal understanding and generation capabilities, addressing the longstanding gap between image understanding and image generation. However, given its strong multimodel understanding performance, how about Janus-Pro’s safety capability?
+
+We conduct a set of safety evaluations on Janus-Pro, utilizing two open-source benchmarks: SIUO and MM-SafetyBench.
+
+<p>Evaluation on SIUO using ASR (↓) with both close-source and open-source LVLMs. OpenQA refers to open-ended question answering, while MCQA refers to multiple-choice question answering.</p>
+
+<div align="center">
+<img width="25%" alt="SIUO" src="assets/Januspro_SIUO.png">
+</div>
+
+<p>Evaluation on MM-SafetyBench using ASR (↓) for LLaVA-1.5-7B, LLaVA-1.5-13B, and Janus-Pro-7B, highlighting the <strong>best</strong> and <u>second-best</u> performances.</p>
+
+<div align="center">
+<img width="60%" alt="MMSafetyBench" src="assets/Januspro_MMSafetyBench.png">
+</div>
+
+<h2 id="contact"> 👋 Contact </h2>
 
 This repository is currently maintained by [Xuankun Rong](https://xuankunrong.github.io/) 👨‍💻. If you have any questions, concerns, or suggestions regarding the contents of this repository or the resources shared here, feel free to reach out! I'm more than happy to assist you with any inquiries or help you navigate through the materials. Please don't hesitate to send an email to me at [xuankun.rong@gmail.com](mailto:xuankun.rong@gmail.com) 📧, and I will get back to you as soon as possible. Let's keep improving the **LVLM Safety** community together! 🚀
 
@@ -356,7 +375,7 @@ Looking forward to hearing from you! 😊
 
 <h2 id="citation"> 🥳 Citation </h2>
 
-Please kindly cite these papers in your publications if it helps your research:
+Please kindly cite this paper in your publications if it helps your research:
 
 ```bibtex
 
