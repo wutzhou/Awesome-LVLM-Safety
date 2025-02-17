@@ -358,13 +358,13 @@ We conduct a set of safety evaluations on Janus-Pro, utilizing two open-source b
 <p>Evaluation on SIUO using ASR (↓) with both close-source and open-source LVLMs. OpenQA refers to open-ended question answering, while MCQA refers to multiple-choice question answering.</p>
 
 <div align="center">
-<img width="25%" alt="SIUO" src="assets/Januspro_SIUO.png">
+<img width="35%" alt="SIUO" src="assets/Januspro_SIUO.png">
 </div>
 
-<p>Evaluation on MM-SafetyBench using ASR (↓) for LLaVA-1.5-7B, LLaVA-1.5-13B, and Janus-Pro-7B, highlighting the <strong>best</strong> and <u>second-best</u> performances.</p>
+<p>Evaluation on MM-SafetyBench using ASR (↓) for LLaVA-1.5-7B, LLaVA-1.5-13B, and Janus-Pro-7B, highlighting the <strong>best</strong> and <ins>second-best</ins> performances.</p>
 
 <div align="center">
-<img width="60%" alt="MMSafetyBench" src="assets/Januspro_MMSafetyBench.png">
+<img width="65%" alt="MMSafetyBench" src="assets/Januspro_MMSafetyBench.png">
 </div>
 
 <h2 id="contact"> 👋 Contact </h2>
