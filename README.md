@@ -1,6 +1,6 @@
 <h1 align="center">🤗🤗🤗 Awesome-LVLM-Safety 🤗🤗🤗</h1>
 
-<p align="center"><em>Curated list of Large Vision-Language Model(LVLM) Safety resources, aligned with our work:</em><br><strong>A Survey of Safety on Large Vision-Language Models: Attacks, Defenses and Evaluations</strong></p>
+<p align="center"><em>Curated list of Large Vision-Language Model (LVLM) Safety resources, aligned with our work:</em><br><strong>A Survey of Safety on Large Vision-Language Models: Attacks, Defenses and Evaluations</strong></p>
 
 <p align="center">
     <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome Badge"></a>
@@ -8,6 +8,10 @@
     <a href="https://creativecommons.org/licenses/by-nc/4.0/"><img src="https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg" alt="License Badge"></a>
     <a href="https://github.com/XuankunRong/Awesome-LVLM-Safety"><img src="https://img.shields.io/github/stars/XuankunRong/Awesome-LVLM-Safety?style=social" alt="GitHub stars"></a>
 </p>
+
+<h2> 🙌 Abstract </h2>
+
+With the rapid advancement of Large Vision-Language Models (LVLMs), ensuring their safety has emerged as a crucial area of research. This survey provides a comprehensive analysis of LVLM safety, covering key aspects such as attacks, defenses, and evaluation methods. We introduce a unified framework that integrates these interrelated components, offering a holistic perspective on the vulnerabilities of LVLMs and the corresponding mitigation strategies. Through an analysis of the LVLM lifecycle, we introduce a classification framework that distinguishes between inference and training phases, with further subcategories to provide deeper insights. Furthermore, we highlight limitations in existing research and outline future directions aimed at strengthening the robustness of LVLMs. As part of our research, we conduct a set of safety evaluations on the latest LVLM, Deepseek Janus-Pro, and provide a theoretical analysis of the results. Our findings provide strategic recommendations for advancing LVLM safety and ensuring their secure and reliable deployment in high-stakes, real-world applications. This survey aims to serve as a cornerstone for future research, facilitating the development of models that not only push the boundaries of multimodal intelligence but also adhere to the highest standards of security and ethical integrity.
 
 <h2> 📜 Table of Contents </h2>
 
