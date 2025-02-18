@@ -294,6 +294,14 @@
   * Yi Ding, Lijun Li, Bing Cao, Jing Shao
   * Shanghai Artificial Intelligence Laboratory, Tianjin University
   * [arXiv'25]
+* **[2025.02.14]** **[VLM-Guard: Safeguarding Vision-Language Models via Fulfilling Safety Alignment Gap](https://arxiv.org/abs/2502.10486)**
+  * Qin Liu, Fei Wang, Chaowei Xiao, Muhao Chen
+  * UC Davis, USC, UW-Madison
+  * [arXiv'25]
+* **[2025.02.17]** **[Adversary-Aware DPO: Enhancing Safety Alignment in Vision Language Models via Adversarial Training](https://arxiv.org/abs/2502.11455)**
+  * Fenghua Weng, Jian Lou, Jun Feng, Minlie Huang, Wenjie Wang
+  * ShanghaiTech University, Sun Yat-Sen University, Huazhong University of Science and Technology, Tsinghua University
+  * [arXiv'25]
 
 <h3 id="evaluations"> <img src="assets/evaluation.png" alt="Icon" width="27" style="vertical-align:middle"/> Evaluations </h3>
 
