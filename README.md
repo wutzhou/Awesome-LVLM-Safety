@@ -306,10 +306,13 @@ With the rapid advancement of Large Vision-Language Models (LVLMs), ensuring the
   * Fenghua Weng, Jian Lou, Jun Feng, Minlie Huang, Wenjie Wang
   * ShanghaiTech University, Sun Yat-Sen University, Huazhong University of Science and Technology, Tsinghua University
   * [arXiv'25]
-* **[2025.02.18]** **[SEA: Low-Resource Safety Alignment for Multimodal Large Language Models via Synthetic Embeddings
-](https://arxiv.org/abs/2502.12562)**
+* **[2025.02.18]** **[SEA: Low-Resource Safety Alignment for Multimodal Large Language Models via Synthetic Embeddings](https://arxiv.org/abs/2502.12562)**
   * Weikai Lu, Hao Peng, Huiping Zhuang, Cen Chen, Ziqian Zeng
   * South China University of Technology, Beihang University, Pazhou Laboratory
+  * [arXiv'25]
+* **[2025.02.20]** **[How Jailbreak Defenses Work and Ensemble? A Mechanistic Investigation](https://arxiv.org/abs/2502.12562)**
+  * Zhuohang Long, Siyuan Wang, Shujun Liu, Yuhang Lai, Xuanjing Huang, Zhongyu Wei
+  * Fudan University, University of Southern California
   * [arXiv'25]
 
 <h3 id="evaluations"> <img src="assets/evaluation.png" alt="Icon" width="27" style="vertical-align:middle"/> Evaluations </h3>
