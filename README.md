@@ -259,6 +259,10 @@ With the rapid advancement of Large Vision-Language Models (LVLMs), ensuring the
   * Jiahui Gao, Renjie Pi, Tianyang Han, Han Wu, Lanqing Hong, Lingpeng Kong, Xin Jiang, Zhenguo Li
   * Noah’s Ark Lab, The Hong Kong University of Science and Technology, The Hong Kong Polytechnic University, The University of Hong Kong
   * [COLM'24]
+* **[2024.10.01]** **[VLMGuard: Defending VLMs against Malicious Prompts via Unlabeled Data](https://arxiv.org/abs/2410.00296v1)**
+  * Xuefeng Du, Reshmi Ghosh, Robert Sim, Ahmed Salem, Vitor Carvalho, Emily Lawton, Yixuan Li, Jack W. Stokes
+  * University of Wisconsin-Madison, Microsoft Corp
+  * [arXiv'24]
 * **[2024.10.09]** **[ETA: Evaluating Then Aligning Safety of Vision Language Models at Inference Time](https://arxiv.org/abs/2410.06625)** [![GitHub stars](https://img.shields.io/github/stars/dripnowhy/eta?style=social)](https://github.com/dripnowhy/eta)
   * Yi Ding, Bolian Li, Ruqi Zhang
   * Purdue University
