@@ -280,12 +280,12 @@ With the rapid advancement of Large Vision-Language Models (LVLMs), ensuring the
   * Sichuan University, National University of Singapore, Singapore Management University
   * [arXiv'24]
 * **[2024.11.03]** **[UniGuard: Towards Universal Safety Guardrails for Jailbreak Attacks on Multimodal Large Language Models](https://arxiv.org/abs/2411.01703)**
-  * Jianfeng Chi, Ujjwal Karn, Hongyuan Zhan, Eric Smith, Javier Rando, Yiming Zhang, Kate Plawiak, Zacharie Delpierre Coudert, Kartikeya Upasani, Mahesh Pasupuleti
-  * Meta
-  * [arXiv'24]
-* **[2024.11.15]** **[Llama Guard 3 Vision: Safeguarding Human-AI Image Understanding Conversations](https://arxiv.org/abs/2411.10414)**
   * Sejoon Oh, Yiqiao Jin, Megha Sharma, Donghyun Kim, Eric Ma, Gaurav Verma, Srijan Kumar
   * Netflix, Georgia Institute of Technology
+  * [arXiv'24]
+* **[2024.11.15]** **[Llama Guard 3 Vision: Safeguarding Human-AI Image Understanding Conversations](https://arxiv.org/abs/2411.10414)**
+  * Jianfeng Chi, Ujjwal Karn, Hongyuan Zhan, Eric Smith, Javier Rando, Yiming Zhang, Kate Plawiak, Zacharie Delpierre Coudert, Kartikeya Upasani, Mahesh Pasupuleti
+  * Meta
   * [arXiv'24]
 * **[2024.11.23]** **[Steering Away from Harm: An Adaptive Approach to Defending Vision Language Model Against Jailbreaks](https://arxiv.org/abs/2411.16721)** [![GitHub stars](https://img.shields.io/github/stars/ASTRAL-Group/ASTRA?style=social)](https://github.com/ASTRAL-Group/ASTRA)
   * Han Wang, Gang Wang, Huan Zhang
