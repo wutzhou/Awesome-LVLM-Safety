@@ -176,6 +176,10 @@ With the rapid advancement of Large Vision-Language Models (LVLMs), ensuring the
   * Ma Teng, Jia Xiaojun, Duan Ranjie, Li Xinfeng, Huang Yihao, Chu Zhixuan, Liu Yang, Ren Wenqi
   * Sun Yat-Sen University, Nanyang Technological University, Alibaba Group, Zhejiang University
   * [arXiv'24]
+* **[2024.02.25]** **[Stealthy Backdoor Attack in Self-Supervised Learning Vision Encoders for Large Vision Language Models](https://arxiv.org/abs/2412.05934)**
+  * Zhaoyi Liu, Huan Zhang
+  * University of Illinois Urbana-Champaign
+  * [arXiv'25]
 
 <h3 id="defenses"> <img src="assets/defense.png" alt="Icon" width="18" style="vertical-align:middle"/> Defenses </h3>
 
