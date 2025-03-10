@@ -323,7 +323,7 @@ With the rapid advancement of Large Vision-Language Models (LVLMs), ensuring the
   * Zhuohang Long, Siyuan Wang, Shujun Liu, Yuhang Lai, Xuanjing Huang, Zhongyu Wei
   * Fudan University, University of Southern California
   * [arXiv'25]
-* **[2025.02.20]** **[HiddenDetect: Detecting Jailbreak Attacks against Large Vision-Language Models via Monitoring Hidden States](https://arxiv.org/abs/2502.14744)**
+* **[2025.02.20]** **[HiddenDetect: Detecting Jailbreak Attacks against Large Vision-Language Models via Monitoring Hidden States](https://arxiv.org/abs/2502.14744)** [![GitHub stars](https://img.shields.io/github/stars/leigest519/HiddenDetect?style=social)](https://github.com/leigest519/HiddenDetect)
   * Yilei Jiang, Xinyan Gao, Tianshuo Peng, Yingshui Tan, Xiaoyong Zhu, Bo Zheng, Xiangyu Yue
   * The Chinese University of Hong Kong, Alibaba Group
   * [arXiv'25]
