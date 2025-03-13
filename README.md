@@ -255,6 +255,10 @@ With the rapid advancement of Large Vision-Language Models (LVLMs), ensuring the
   * Yulin Chen, Haoran Li, Yirui Zhang, Zihao Zheng, Yangqiu Song, Bryan Hooi
   * National University of Singapore, Hong Kong University of Science and Technology, Harbin Institute of Technology, Shenzhen
   * [arXiv'24]
+* **[2024.09.08]** **[PIP: Detecting Adversarial Examples in Large Vision-Language Models via Attention Patterns of Irrelevant Probe Questions](https://www.arxiv.org/abs/2409.05076)**
+  * Yudong Zhang, Ruobing Xie, Jiansheng Chen, Xingwu Sun, Yu Wang
+  * Tsinghua University, Tencent, University of Science and Technology Beijing
+  * [MM'24]
 * **[2024.09.11]** **[Sim-CLIP+: Securing Vision-Language Models with a Robust Encoder Against Jailbreak and Adversarial Attacks](https://arxiv.org/abs/2409.07353)**
   * Md Zarif Hossain, Ahmed Imteaj
   * Southern Illinois University, Security, Privacy and Intelligence for Edge Devices Laboratory
@@ -420,7 +424,7 @@ We conduct a set of safety evaluations on Janus-Pro, utilizing two open-source b
 
 <h2 id="contact"> 👋 Contact </h2>
 
-This repository is currently maintained by [Xuankun Rong](https://xuankunrong.github.io/) 👨‍💻. If you have any questions, concerns, or suggestions regarding the contents of this repository or the resources shared here, feel free to reach out! I'm more than happy to assist you with any inquiries or help you navigate through the materials. Please don't hesitate to send an email to me at [xuankun.rong@gmail.com](mailto:xuankun.rong@gmail.com) 📧, and I will get back to you as soon as possible. Let's keep improving the **LVLM Safety** community together! 🚀
+This repository is currently maintained by [Xuankun Rong](https://xuankunrong.github.io/) 👨‍💻. If you have any questions, concerns, or suggestions regarding the contents of this repository or the resources shared here, feel free to reach out! I'm more than happy to assist you with any inquiries or help you navigate through the materials. Please don't hesitate to send an email to me at [rongxuankun@whu.edu.cn](mailto:rongxuankun@whu.edu.cn) 📧, and I will get back to you as soon as possible. Let's keep improving the **LVLM Safety** community together! 🚀
 
 Looking forward to hearing from you! 😊
 
