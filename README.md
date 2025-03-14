@@ -335,6 +335,10 @@ With the rapid advancement of Large Vision-Language Models (LVLMs), ensuring the
   * Yilei Jiang, Xinyan Gao, Tianshuo Peng, Yingshui Tan, Xiaoyong Zhu, Bo Zheng, Xiangyu Yue
   * The Chinese University of Hong Kong, Alibaba Group
   * [arXiv'25]
+* **[2025.03.05]** **[Adversarial Training for Multimodal Large Language Models against Jailbreak Attacks](https://arxiv.org/abs/2503.04833)**
+  * Liming Lu, Shuchao Pang, Siyuan Liang, Haotian Zhu, Xiyu Zeng, Aishan Liu, Yunhuai Liu, Yongbin Zhou
+  * Nanjing University of Science and Technology, National University of Singapore, Beihang University
+  * [arXiv'25]
 
 <h3 id="evaluations"> <img src="assets/evaluation.png" alt="Icon" width="27" style="vertical-align:middle"/> Evaluations </h3>
 
