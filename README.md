@@ -176,9 +176,13 @@ With the rapid advancement of Large Vision-Language Models (LVLMs), ensuring the
   * Ma Teng, Jia Xiaojun, Duan Ranjie, Li Xinfeng, Huang Yihao, Chu Zhixuan, Liu Yang, Ren Wenqi
   * Sun Yat-Sen University, Nanyang Technological University, Alibaba Group, Zhejiang University
   * [arXiv'24]
-* **[2024.02.25]** **[Stealthy Backdoor Attack in Self-Supervised Learning Vision Encoders for Large Vision Language Models](https://arxiv.org/abs/2412.05934)**
+* **[2025.02.25]** **[Stealthy Backdoor Attack in Self-Supervised Learning Vision Encoders for Large Vision Language Models](https://arxiv.org/abs/2412.05934)**
   * Zhaoyi Liu, Huan Zhang
   * University of Illinois Urbana-Champaign
+  * [arXiv'25]
+* **[2025.03.20]** **[BadToken: Token-level Backdoor Attacks to Multi-modal Large Language Models](https://arxiv.org/abs/2503.16023)**
+  * Zenghui Yuan, Jiawen Shi, Pan Zhou, Neil Zhenqiang Gong, Lichao Sun
+  * Huazhong University of Science and Technology, Duke University, Lehigh University
   * [arXiv'25]
 
 <h3 id="defenses"> <img src="assets/defense.png" alt="Icon" width="18" style="vertical-align:middle"/> Defenses </h3>
@@ -338,6 +342,10 @@ With the rapid advancement of Large Vision-Language Models (LVLMs), ensuring the
 * **[2025.03.05]** **[Adversarial Training for Multimodal Large Language Models against Jailbreak Attacks](https://arxiv.org/abs/2503.04833)**
   * Liming Lu, Shuchao Pang, Siyuan Liang, Haotian Zhu, Xiyu Zeng, Aishan Liu, Yunhuai Liu, Yongbin Zhou
   * Nanjing University of Science and Technology, National University of Singapore, Beihang University
+  * [arXiv'25]
+* **[2025.03.22]** **[Safe RLHF-V: Safe Reinforcement Learning from Human Feedback in Multimodal Large Language Models](https://arxiv.org/abs/2503.17682)** [![GitHub stars](https://img.shields.io/github/stars/saferlhf-v/saferlhf-v?style=social)](https://github.com/saferlhf-v/saferlhf-v)
+  * Jiaming Ji, Xinyu Chen, Rui Pan, Han Zhu, Conghui Zhang, Jiahao Li, Donghai Hong, Boyuan Chen, Jiayi Zhou, Kaile Wang, Juntao Dai, Chi-Min Chan, Sirui Han, Yike Guo, Yaodong Yang
+  * Peking University, Hong Kong University of Science and Technology
   * [arXiv'25]
 
 <h3 id="evaluations"> <img src="assets/evaluation.png" alt="Icon" width="27" style="vertical-align:middle"/> Evaluations </h3>
