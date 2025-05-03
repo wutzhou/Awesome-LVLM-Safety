@@ -347,6 +347,14 @@ With the rapid advancement of Large Vision-Language Models (LVLMs), also referre
   * Jiaming Ji, Xinyu Chen, Rui Pan, Han Zhu, Conghui Zhang, Jiahao Li, Donghai Hong, Boyuan Chen, Jiayi Zhou, Kaile Wang, Juntao Dai, Chi-Min Chan, Sirui Han, Yike Guo, Yaodong Yang
   * Peking University, Hong Kong University of Science and Technology
   * [arXiv'25]
+* **[2025.04.17]** **[VLMGuard-R1: Proactive Safety Alignment for VLMs via Reasoning-Driven Prompt Optimization](https://www.arxiv.org/abs/2504.12661)**
+  * Menglan Chen, Xianghe Pang, Jingjing Dong, WenHao Wang, Yaxin Du, Siheng Chen
+  * Shanghai Jiao Tong University
+  * [arXiv'25]
+* **[2025.04.25]** **[DREAM: Disentangling Risks to Enhance Safety Alignment in Multimodal Large Language Models](https://arxiv.org/abs/2504.18053)**
+  * Jianyu Liu, Hangyu Guo, Ranjie Duan, Xingyuan Bu, Yancheng He, Shilong Li, Hui Huang, Jiaheng Liu, Yucheng Wang, Chenchen Jing, Xingwei Qu, Xiao Zhang, Yingshui Tan, Yanan Wu, Jihao Gu, Yangguang Li, Jianke Zhu
+  * Alibaba Group, Zhejiang University, M-A-P, The Chinese University of Hong Kong
+  * [arXiv'25]
 
 <h3 id="evaluations"> <img src="assets/evaluation.png" alt="Icon" width="27" style="vertical-align:middle"/> Evaluations </h3>
 
