@@ -355,7 +355,10 @@ With the rapid advancement of Large Vision-Language Models (LVLMs), also referre
   * Jianyu Liu, Hangyu Guo, Ranjie Duan, Xingyuan Bu, Yancheng He, Shilong Li, Hui Huang, Jiaheng Liu, Yucheng Wang, Chenchen Jing, Xingwei Qu, Xiao Zhang, Yingshui Tan, Yanan Wu, Jihao Gu, Yangguang Li, Jianke Zhu
   * Alibaba Group, Zhejiang University, M-A-P, The Chinese University of Hong Kong
   * [arXiv'25]
-
+* **[2025.06.11]** **[HoliSafe: Holistic Safety Benchmarking and Modeling with Safety Meta Token for Vision-Language Model](https://www.arxiv.org/abs/2506.04704)**
+  * Youngwan Lee, Kangsan Kim, Kwanyong Park, Ilcahe Jung, Soojin Jang, Seanie Lee, Yong-Ju Lee, Sung Ju Hwang
+  * ETRI, KAIST AI, University of Seoul, DeepAuto
+  * [arXiv'25]
 <h3 id="evaluations"> <img src="assets/evaluation.png" alt="Icon" width="27" style="vertical-align:middle"/> Evaluations </h3>
 
 * **[2023.11.27]** **[How Many Unicorns Are in This Image? A Safety Evaluation Benchmark for Vision LLMs](https://arxiv.org/abs/2311.16101)** [![GitHub stars](https://img.shields.io/github/stars/UCSC-VLAA/vllm-safety-benchmark?style=social)](https://github.com/UCSC-VLAA/vllm-safety-benchmark)
@@ -423,6 +426,10 @@ With the rapid advancement of Large Vision-Language Models (LVLMs), also referre
   * Xuhao Hu, Dongrui Liu, Hao Li, Xuanjing Huang, Jing Shao
   * Shanghai Artificial Intelligence Laboratory, Fudan University, Beihang University
   * [arXiv'24]
+* **[2025.06.11]** **[HoliSafe: Holistic Safety Benchmarking and Modeling with Safety Meta Token for Vision-Language Model](https://www.arxiv.org/abs/2506.04704)**
+  * Youngwan Lee, Kangsan Kim, Kwanyong Park, Ilcahe Jung, Soojin Jang, Seanie Lee, Yong-Ju Lee, Sung Ju Hwang
+  * ETRI, KAIST AI, University of Seoul, DeepAuto
+  * [arXiv'25]
 
 <h2 id="januspro"> 🤖 Evaluation on Janus-Pro </h2>
 
