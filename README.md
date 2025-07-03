@@ -306,7 +306,7 @@ With the rapid advancement of Large Vision-Language Models (LVLMs), also referre
 * **[2024.11.23]** **[Steering Away from Harm: An Adaptive Approach to Defending Vision Language Model Against Jailbreaks](https://arxiv.org/abs/2411.16721)** [![GitHub stars](https://img.shields.io/github/stars/ASTRAL-Group/ASTRA?style=social)](https://github.com/ASTRAL-Group/ASTRA)
   * Han Wang, Gang Wang, Huan Zhang
   * University of Illinois Urbana-Champaign
-  * [arXiv'24]
+  * [CVPR'25]
 * **[2024.11.27]** **[Immune: Improving Safety Against Jailbreaks in Multi-modal LLMs via Inference-Time Alignment](https://arxiv.org/abs/2411.18688)** [![GitHub stars](https://img.shields.io/github/stars/itsvaibhav01/Immune?style=social)](https://github.com/itsvaibhav01/Immune)
   * Soumya Suvra Ghosal, Souradip Chakraborty, Vaibhav Singh, Tianrui Guan, Mengdi Wang, Ahmad Beirami, Furong Huang, Alvaro Velasquez, Dinesh Manocha, Amrit Singh Bedi
   * University of Maryland, Indian Institute of Technology Bombay, Princeton University, University of Colorado Boulder, University of Central Florida
@@ -330,15 +330,15 @@ With the rapid advancement of Large Vision-Language Models (LVLMs), also referre
 * **[2025.02.18]** **[SEA: Low-Resource Safety Alignment for Multimodal Large Language Models via Synthetic Embeddings](https://arxiv.org/abs/2502.12562)**
   * Weikai Lu, Hao Peng, Huiping Zhuang, Cen Chen, Ziqian Zeng
   * South China University of Technology, Beihang University, Pazhou Laboratory
-  * [arXiv'25]
-* **[2025.02.20]** **[How Jailbreak Defenses Work and Ensemble? A Mechanistic Investigation](https://arxiv.org/abs/2502.12562)**
+  * [ACL'25]
+* **[2025.02.20]** **[How Jailbreak Defenses Work and Ensemble? A Mechanistic Investigation](https://arxiv.org/abs/2502.14486)**
   * Zhuohang Long, Siyuan Wang, Shujun Liu, Yuhang Lai, Xuanjing Huang, Zhongyu Wei
   * Fudan University, University of Southern California
   * [arXiv'25]
 * **[2025.02.20]** **[HiddenDetect: Detecting Jailbreak Attacks against Large Vision-Language Models via Monitoring Hidden States](https://arxiv.org/abs/2502.14744)** [![GitHub stars](https://img.shields.io/github/stars/leigest519/HiddenDetect?style=social)](https://github.com/leigest519/HiddenDetect)
   * Yilei Jiang, Xinyan Gao, Tianshuo Peng, Yingshui Tan, Xiaoyong Zhu, Bo Zheng, Xiangyu Yue
   * The Chinese University of Hong Kong, Alibaba Group
-  * [arXiv'25]
+  * [ACL'25]
 * **[2025.03.05]** **[Adversarial Training for Multimodal Large Language Models against Jailbreak Attacks](https://arxiv.org/abs/2503.04833)**
   * Liming Lu, Shuchao Pang, Siyuan Liang, Haotian Zhu, Xiyu Zeng, Aishan Liu, Yunhuai Liu, Yongbin Zhou
   * Nanjing University of Science and Technology, National University of Singapore, Beihang University
