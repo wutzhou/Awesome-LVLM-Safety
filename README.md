@@ -426,6 +426,10 @@ With the rapid advancement of Large Vision-Language Models (LVLMs), also referre
   * Xuhao Hu, Dongrui Liu, Hao Li, Xuanjing Huang, Jing Shao
   * Shanghai Artificial Intelligence Laboratory, Fudan University, Beihang University
   * [arXiv'24]
+* **[2025.05.21]** **[Are Vision-Language Models Safe in the Wild? A Meme-Based Benchmark Study](https://arxiv.org/abs/2505.15389)** [![GitHub stars](https://img.shields.io/github/stars/oneonlee/meme-safety-bench?style=social)](https://github.com/oneonlee/meme-safety-bench)
+  * DongGeon Lee, Joonwon Jang, Jihae Jeong, Hwanjo Yu
+  * POSTECH, LG AI Research
+  * [EMNLP'25]
 * **[2025.06.11]** **[HoliSafe: Holistic Safety Benchmarking and Modeling with Safety Meta Token for Vision-Language Model](https://www.arxiv.org/abs/2506.04704)**
   * Youngwan Lee, Kangsan Kim, Kwanyong Park, Ilcahe Jung, Soojin Jang, Seanie Lee, Yong-Ju Lee, Sung Ju Hwang
   * ETRI, KAIST AI, University of Seoul, DeepAuto
