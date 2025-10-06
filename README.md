@@ -138,7 +138,7 @@ With the rapid advancement of Large Vision-Language Models (LVLMs), also referre
 * **[2024.06.27]** **[Revisiting Backdoor Attacks against Large Vision-Language Models](https://arxiv.org/abs/2406.18844)**
   * Siyuan Liang, Jiawei Liang, Tianyu Pang, Chao Du, Aishan Liu, Mingli Zhu, Xiaochun Cao, Dacheng Tao
   * National University of Singapore, Shenzhen Campus of Sun Yat-sen University, Sea AI lab, Independent Researchers, The Chinese University of Hong Kong, Shenzhen, Nanyang Technological University
-  * [arXiv'24]
+  * [CVPR'25]
 * **[2024.07.01]** **[Image-to-Text Logic Jailbreak: Your Imagination can Help You Do Anything](https://arxiv.org/abs/2407.02534)**
   * Xiaotian Zou, Ke Li, Yongkang Chen
   * University of Exeter, Nanjing University of Aeronautics and Astronautics
@@ -170,7 +170,7 @@ With the rapid advancement of Large Vision-Language Models (LVLMs), also referre
 * **[2024.12.01]** **[Jailbreak Large Vision-Language Models Through Multi-Modal Linkage](https://arxiv.org/abs/2412.00473v4)** [![GitHub stars](https://img.shields.io/github/stars/gzcch/Safety_Snowball_Agent?style=social)](https://github.com/gzcch/Safety_Snowball_Agent)
   * Yu Wang, Xiaofei Zhou, Yichen Wang, Geyuan Zhang, Tianxing He
   * University of Chinese Academy of Sciences, Tsinghua University, Shanghai Qi Zhi Institute, University of Chicago
-  * [arXiv'24]
+  * [CVPR'25]
 * **[2024.12.08]** **[Heuristic-Induced Multimodal Risk Distribution Jailbreak Attack for Multimodal Large Language Models](https://arxiv.org/abs/2412.05934)** [![GitHub stars](https://img.shields.io/github/stars/matengsysu/himrd-jailbreak?style=social)](https://github.com/matengsysu/himrd-jailbreak)
   * Ma Teng, Jia Xiaojun, Duan Ranjie, Li Xinfeng, Huang Yihao, Chu Zhixuan, Liu Yang, Ren Wenqi
   * Sun Yat-Sen University, Nanyang Technological University, Alibaba Group, Zhejiang University
@@ -178,11 +178,11 @@ With the rapid advancement of Large Vision-Language Models (LVLMs), also referre
 * **[2025.02.25]** **[Stealthy Backdoor Attack in Self-Supervised Learning Vision Encoders for Large Vision Language Models](https://arxiv.org/abs/2412.05934)**
   * Zhaoyi Liu, Huan Zhang
   * University of Illinois Urbana-Champaign
-  * [arXiv'25]
+  * [CVPR'25]
 * **[2025.03.20]** **[BadToken: Token-level Backdoor Attacks to Multi-modal Large Language Models](https://arxiv.org/abs/2503.16023)**
   * Zenghui Yuan, Jiawen Shi, Pan Zhou, Neil Zhenqiang Gong, Lichao Sun
   * Huazhong University of Science and Technology, Duke University, Lehigh University
-  * [arXiv'25]
+  * [CVPR'25]
 * **[2025.03.26]** [**Playing the Fool: Jailbreaking LLMs and Multimodal LLMs with Out-of-Distribution Strategy**](https://openaccess.thecvf.com/content/CVPR2025/html/Jeong_Playing_the_Fool_Jailbreaking_LLMs_and_Multimodal_LLMs_with_Out-of-Distribution_CVPR_2025_paper.html) [![GitHub stars](https://img.shields.io/github/stars/naver-ai/JOOD?style=social)](https://github.com/naver-ai/JOOD)
   * Joonhyun Jeong, Seyun Bae, Yeonsung Jung, Jaeryong Hwang, Eunho Yang
   * NAVER Cloud, Korea Advanced Institute of Science and Technology (KAIST), Republic of Korea Naval Academy, AITRICS
@@ -363,6 +363,10 @@ With the rapid advancement of Large Vision-Language Models (LVLMs), also referre
   * Jianyu Liu, Hangyu Guo, Ranjie Duan, Xingyuan Bu, Yancheng He, Shilong Li, Hui Huang, Jiaheng Liu, Yucheng Wang, Chenchen Jing, Xingwei Qu, Xiao Zhang, Yingshui Tan, Yanan Wu, Jihao Gu, Yangguang Li, Jianke Zhu
   * Alibaba Group, Zhejiang University, M-A-P, The Chinese University of Hong Kong
   * [arXiv'25]
+* **[2025.05.22]** **[Backdoor Cleaning without External Guidance in MLLM Fine-tuning](https://arxiv.org/abs/2505.16916)**
+  * Xuankun Rong, Wenke Huang, Jian Liang, Jinhe Bi, Xun Xiao, Yiming Li, Bo Du, Mang Ye
+  * Wuhan University, Munich Research Center Huawei Technologies, Nanyang Technological University
+  * [NeurIPS'25]
 * **[2025.06.11]** **[HoliSafe: Holistic Safety Benchmarking and Modeling with Safety Meta Token for Vision-Language Model](https://www.arxiv.org/abs/2506.04704)**
   * Youngwan Lee, Kangsan Kim, Kwanyong Park, Ilcahe Jung, Soojin Jang, Seanie Lee, Yong-Ju Lee, Sung Ju Hwang
   * ETRI, KAIST AI, University of Seoul, DeepAuto
@@ -471,12 +475,10 @@ Looking forward to hearing from you! 😊
 Please kindly cite this paper in your publications if it helps your research:
 
 ```bibtex
-@misc{ye2025surveysafetylargevisionlanguage,
-      title={A Survey of Safety on Large Vision-Language Models: Attacks, Defenses and Evaluations}, 
-      author={Mang Ye and Xuankun Rong and Wenke Huang and Bo Du and Nenghai Yu and Dacheng Tao},
-      year={2025},
-      eprint={2502.14881},
-      archivePrefix={arXiv},
-      primaryClass={cs.CR}
+@article{SafetySurvey,
+  title={A survey of safety on large vision-language models: Attacks, defenses and evaluations},
+  author={Ye, Mang and Rong, Xuankun and Huang, Wenke and Du, Bo and Yu, Nenghai and Tao, Dacheng},
+  journal={arXiv preprint arXiv:2502.14881},
+  year={2025}
 }
 ```
