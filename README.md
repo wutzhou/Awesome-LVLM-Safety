@@ -155,9 +155,8 @@ With the rapid advancement of Large Vision-Language Models (LVLMs), also referre
   * Yubo Wang, Chaohu Liu, Yanqiu Qu, Haoyu Cao, Deqiang Jiang, Linli Xu
   * University of Science and Technology of China, Tencent YouTu Lab
   * [MM'24]
-* **[2024.10.29]** **[IDEATOR: Jailbreaking Large Vision-Language Models Using Themselves](https://arxiv.org/abs/2411.00827v2)**
+* **[2024.10.29]** **[IDEATOR: Jailbreaking Large Vision-Language Models Using Themselves](https://arxiv.org/abs/2411.00827v6)** [![GitHub stars](https://img.shields.io/github/stars/roywang021/IDEATOR?style=social)](https://github.com/roywang021/IDEATOR)
   * Ruofan Wang, Bo Wang, Xiaosen Wang, Xingjun Ma, Yu-Gang Jiang
-  * Fudan University, Huawei Technologies Ltd.
   * [arXiv'24]
 * **[2024.11.01]** **[Replace-then-Perturb: Targeted Adversarial Attacks With Visual Reasoning for Vision-Language Models](https://arxiv.org/abs/2411.00898v1)**
   * Jonggyu Jang, Hyeonsu Lyu, Jungyeon Koh, Hyun Jong Yang
