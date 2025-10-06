@@ -162,12 +162,11 @@ With the rapid advancement of Large Vision-Language Models (LVLMs), also referre
 * **[2024.11.01]** **[Replace-then-Perturb: Targeted Adversarial Attacks With Visual Reasoning for Vision-Language Models](https://arxiv.org/abs/2411.00898v1)**
   * Jonggyu Jang, Hyeonsu Lyu, Jungyeon Koh, Hyun Jong Yang
   * Seoul National University, Pohang University of Science and Technology
-  * [arXIv'24]
 * **[2024.11.18]** **[Safe + Safe = Unsafe? Exploring How Safe Images Can Be Exploited to Jailbreak Large Vision-Language Models
 ](https://arxiv.org/abs/2411.11496)** [![GitHub stars](https://img.shields.io/github/stars/matengsysu/himrd-jailbreak?style=social)](https://github.com/matengsysu/himrd-jailbreak)
   * Chenhang Cui, Gelei Deng, An Zhang, Jingnan Zheng, Yicong Li, Lianli Gao, Tianwei Zhang, Tat-Seng Chua
   * University of Electronic Science and Technology of China, National University of Singapore, Nanyang Technological University
-  * [arXIv'24]
+  * [arXiv'24]
 * **[2024.12.01]** **[Jailbreak Large Vision-Language Models Through Multi-Modal Linkage](https://arxiv.org/abs/2412.00473v4)** [![GitHub stars](https://img.shields.io/github/stars/gzcch/Safety_Snowball_Agent?style=social)](https://github.com/gzcch/Safety_Snowball_Agent)
   * Yu Wang, Xiaofei Zhou, Yichen Wang, Geyuan Zhang, Tianxing He
   * University of Chinese Academy of Sciences, Tsinghua University, Shanghai Qi Zhi Institute, University of Chicago
@@ -191,10 +190,10 @@ With the rapid advancement of Large Vision-Language Models (LVLMs), also referre
   * Yangyi Chen, Karan Sikka, Michael Cogswell, Heng Ji, Ajay Divakaran
   * SRI International, University of Illinois Urbana-Champaign
   * [CVPR'24]
-* **[2023.12.17]** **[JailGuard: A Universal Detection Framework for LLM Prompt-based Attacks](https://arxiv.org/abs/2312.10766v3)** [![GitHub stars](https://img.shields.io/github/stars/shiningrain/JailGuard?style=social)](https://github.com/shiningrain/JailGuard)
+* **[2023.12.17]** **[JailGuard: A Universal Detection Framework for LLM Prompt-based Attacks](https://arxiv.org/abs/2312.10766v4)** [![GitHub stars](https://img.shields.io/github/stars/shiningrain/JailGuard?style=social)](https://github.com/shiningrain/JailGuard)
   * Xiaoyu Zhang, Cen Zhang, Tianlin Li, Yihao Huang, Xiaojun Jia, Ming Hu, Jie Zhang, Yang Liu, Shiqing Ma, Chao Shen
   * Xi’an Jiaotong University, Nanyang Technological University, University of Massachusetts
-  * [arXiv'23]
+  * [TOSEM'25]
 * **[2024.01.05]** **[MLLM-Protector: Ensuring MLLM&#39;s Safety without Hurting Performance](https://arxiv.org/abs/2401.02906)** [![GitHub stars](https://img.shields.io/github/stars/pipilurj/MLLM-protector?style=social)](https://github.com/pipilurj/MLLM-protector)
   * Renjie Pi, Tianyang Han, Jianshu Zhang, Yueqi Xie, Rui Pan, Qing Lian, Hanze Dong, Jipeng Zhang, Tong Zhang
   * The Hong Kong University of Science and Technology, University of Illinois at Urbana-Champaign, The Hong Kong Polytechnic University
@@ -238,7 +237,7 @@ With the rapid advancement of Large Vision-Language Models (LVLMs), also referre
 * **[2024.06.07]** **[LLavaGuard: VLM-based Safeguards for Vision Dataset Curation and Safety Assessment](https://arxiv.org/abs/2406.05113)** [![GitHub stars](https://img.shields.io/github/stars/ml-research/llavaguard?style=social)](https://github.com/ml-research/llavaguard)
   * Lukas Helff, Felix Friedrich, Manuel Brack, Kristian Kersting, Patrick Schramowski
   * Technical University of Darmstadt, hessian.AI, DFKI, Centre for Cognitive Science, Ontocord
-  * [arXiv'24]
+  * [ICML'25]
 * **[2024.06.13]** **[MirrorCheck: Efficient Adversarial Defense for Vision-Language Models](https://arxiv.org/abs/2406.09250)**
   * Samar Fares, Klea Ziu, Toluwani Aremu, Nikita Durasov, Martin Takáč, Pascal Fua, Karthik Nandakumar, Ivan Laptev
   * Mohamed bin Zayed University of Artificial Intelligence, EPFL
@@ -246,7 +245,7 @@ With the rapid advancement of Large Vision-Language Models (LVLMs), also referre
 * **[2024.06.17]** **[SPA-VL: A Comprehensive Safety Preference Alignment Dataset for Vision Language Model](https://arxiv.org/abs/2406.12030)** [![GitHub stars](https://img.shields.io/github/stars/echosechen/spa-vl-rlhf?style=social)](https://github.com/echosechen/spa-vl-rlhf)
   * Yongting Zhang, Lu Chen, Guodong Zheng, Yifeng Gao, Rui Zheng, Jinlan Fu, Zhenfei Yin, Senjie Jin, Yu Qiao, Xuanjing Huang, Feng Zhao, Tao Gui, Jing Shao
   * University of Science and Technology of China, Fudan University, Shanghai Artificial Intelligence Laboratory
-  * [arXiv'24]
+  * [CVPR'25]
 * **[2024.07.20]** **[Sim-CLIP: Unsupervised Siamese Adversarial Fine-Tuning for Robust and Semantically-Rich Vision-Language Models](https://arxiv.org/abs/2407.14971v2)** [![GitHub stars](https://img.shields.io/github/stars/speedlab-git/SimCLIP?style=social)](https://github.com/speedlab-git/SimCLIP)
   * Md Zarif Hossain, Ahmed Imteaj
   * Southern Illinois University, Security, Privacy and Intelligence for Edge Devices Laboratory
@@ -266,7 +265,7 @@ With the rapid advancement of Large Vision-Language Models (LVLMs), also referre
 * **[2024.09.11]** **[Sim-CLIP+: Securing Vision-Language Models with a Robust Encoder Against Jailbreak and Adversarial Attacks](https://arxiv.org/abs/2409.07353)**
   * Md Zarif Hossain, Ahmed Imteaj
   * Southern Illinois University, Security, Privacy and Intelligence for Edge Devices Laboratory
-  * [arXiv'24]
+  * [BigData'24]
 * **[2024.09.17]** **[CoCA: Regaining Safety-awareness of Multimodal Large Language Models with Constitutional Calibration](https://arxiv.org/abs/2409.11365)**
   * Jiahui Gao, Renjie Pi, Tianyang Han, Han Wu, Lanqing Hong, Lingpeng Kong, Xin Jiang, Zhenguo Li
   * Noah’s Ark Lab, The Hong Kong University of Science and Technology, The Hong Kong Polytechnic University, The University of Hong Kong
