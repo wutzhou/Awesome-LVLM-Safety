@@ -155,19 +155,18 @@ With the rapid advancement of Large Vision-Language Models (LVLMs), also referre
   * Yubo Wang, Chaohu Liu, Yanqiu Qu, Haoyu Cao, Deqiang Jiang, Linli Xu
   * University of Science and Technology of China, Tencent YouTu Lab
   * [MM'24]
-* **[2024.10.29]** **[IDEATOR: Jailbreaking Large Vision-Language Models Using Themselves](https://arxiv.org/abs/2411.00827v2)**
+* **[2024.10.29]** **[IDEATOR: Jailbreaking Large Vision-Language Models Using Themselves](https://arxiv.org/abs/2411.00827v6)** [![GitHub stars](https://img.shields.io/github/stars/roywang021/IDEATOR?style=social)](https://github.com/roywang021/IDEATOR)
   * Ruofan Wang, Bo Wang, Xiaosen Wang, Xingjun Ma, Yu-Gang Jiang
-  * Fudan University, Huawei Technologies Ltd.
+  * Fudan University, Huawei Technologies Ltd., Shanghai AI Lab
   * [arXiv'24]
 * **[2024.11.01]** **[Replace-then-Perturb: Targeted Adversarial Attacks With Visual Reasoning for Vision-Language Models](https://arxiv.org/abs/2411.00898v1)**
   * Jonggyu Jang, Hyeonsu Lyu, Jungyeon Koh, Hyun Jong Yang
   * Seoul National University, Pohang University of Science and Technology
-  * [arXIv'24]
-* **[2024.11.18]** **[Safe + Safe = Unsafe? Exploring How Safe Images Can Be Exploited to Jailbreak Large Vision-Language Models
-](https://arxiv.org/abs/2411.11496)** [![GitHub stars](https://img.shields.io/github/stars/matengsysu/himrd-jailbreak?style=social)](https://github.com/matengsysu/himrd-jailbreak)
+  * [arXiv'24]
+* **[2024.11.18]** **[Safe + Safe = Unsafe? Exploring How Safe Images Can Be Exploited to Jailbreak Large Vision-Language Models](https://arxiv.org/abs/2411.11496)** [![GitHub stars](https://img.shields.io/github/stars/matengsysu/himrd-jailbreak?style=social)](https://github.com/matengsysu/himrd-jailbreak)
   * Chenhang Cui, Gelei Deng, An Zhang, Jingnan Zheng, Yicong Li, Lianli Gao, Tianwei Zhang, Tat-Seng Chua
   * University of Electronic Science and Technology of China, National University of Singapore, Nanyang Technological University
-  * [arXIv'24]
+  * [arXiv'24]
 * **[2024.12.01]** **[Jailbreak Large Vision-Language Models Through Multi-Modal Linkage](https://arxiv.org/abs/2412.00473v4)** [![GitHub stars](https://img.shields.io/github/stars/gzcch/Safety_Snowball_Agent?style=social)](https://github.com/gzcch/Safety_Snowball_Agent)
   * Yu Wang, Xiaofei Zhou, Yichen Wang, Geyuan Zhang, Tianxing He
   * University of Chinese Academy of Sciences, Tsinghua University, Shanghai Qi Zhi Institute, University of Chicago
@@ -184,6 +183,11 @@ With the rapid advancement of Large Vision-Language Models (LVLMs), also referre
   * Zenghui Yuan, Jiawen Shi, Pan Zhou, Neil Zhenqiang Gong, Lichao Sun
   * Huazhong University of Science and Technology, Duke University, Lehigh University
   * [arXiv'25]
+* **[2025.03.26]** [**Playing the Fool: Jailbreaking LLMs and Multimodal LLMs with Out-of-Distribution Strategy**](https://openaccess.thecvf.com/content/CVPR2025/html/Jeong_Playing_the_Fool_Jailbreaking_LLMs_and_Multimodal_LLMs_with_Out-of-Distribution_CVPR_2025_paper.html) [![GitHub stars](https://img.shields.io/github/stars/naver-ai/JOOD?style=social)](https://github.com/naver-ai/JOOD)
+  * Joonhyun Jeong, Seyun Bae, Yeonsung Jung, Jaeryong Hwang, Eunho Yang
+  * NAVER Cloud, Korea Advanced Institute of Science and Technology (KAIST), Republic of Korea Naval Academy, AITRICS
+  * [CVPR'25]
+
 
 <h3 id="defenses"> <img src="assets/defense.png" alt="Icon" width="18" style="vertical-align:middle"/> Defenses </h3>
 
@@ -191,10 +195,10 @@ With the rapid advancement of Large Vision-Language Models (LVLMs), also referre
   * Yangyi Chen, Karan Sikka, Michael Cogswell, Heng Ji, Ajay Divakaran
   * SRI International, University of Illinois Urbana-Champaign
   * [CVPR'24]
-* **[2023.12.17]** **[JailGuard: A Universal Detection Framework for LLM Prompt-based Attacks](https://arxiv.org/abs/2312.10766v3)** [![GitHub stars](https://img.shields.io/github/stars/shiningrain/JailGuard?style=social)](https://github.com/shiningrain/JailGuard)
+* **[2023.12.17]** **[JailGuard: A Universal Detection Framework for LLM Prompt-based Attacks](https://arxiv.org/abs/2312.10766v4)** [![GitHub stars](https://img.shields.io/github/stars/shiningrain/JailGuard?style=social)](https://github.com/shiningrain/JailGuard)
   * Xiaoyu Zhang, Cen Zhang, Tianlin Li, Yihao Huang, Xiaojun Jia, Ming Hu, Jie Zhang, Yang Liu, Shiqing Ma, Chao Shen
   * Xi’an Jiaotong University, Nanyang Technological University, University of Massachusetts
-  * [arXiv'23]
+  * [TOSEM'25]
 * **[2024.01.05]** **[MLLM-Protector: Ensuring MLLM&#39;s Safety without Hurting Performance](https://arxiv.org/abs/2401.02906)** [![GitHub stars](https://img.shields.io/github/stars/pipilurj/MLLM-protector?style=social)](https://github.com/pipilurj/MLLM-protector)
   * Renjie Pi, Tianyang Han, Jianshu Zhang, Yueqi Xie, Rui Pan, Qing Lian, Hanze Dong, Jipeng Zhang, Tong Zhang
   * The Hong Kong University of Science and Technology, University of Illinois at Urbana-Champaign, The Hong Kong Polytechnic University
@@ -238,7 +242,7 @@ With the rapid advancement of Large Vision-Language Models (LVLMs), also referre
 * **[2024.06.07]** **[LLavaGuard: VLM-based Safeguards for Vision Dataset Curation and Safety Assessment](https://arxiv.org/abs/2406.05113)** [![GitHub stars](https://img.shields.io/github/stars/ml-research/llavaguard?style=social)](https://github.com/ml-research/llavaguard)
   * Lukas Helff, Felix Friedrich, Manuel Brack, Kristian Kersting, Patrick Schramowski
   * Technical University of Darmstadt, hessian.AI, DFKI, Centre for Cognitive Science, Ontocord
-  * [arXiv'24]
+  * [ICML'25]
 * **[2024.06.13]** **[MirrorCheck: Efficient Adversarial Defense for Vision-Language Models](https://arxiv.org/abs/2406.09250)**
   * Samar Fares, Klea Ziu, Toluwani Aremu, Nikita Durasov, Martin Takáč, Pascal Fua, Karthik Nandakumar, Ivan Laptev
   * Mohamed bin Zayed University of Artificial Intelligence, EPFL
@@ -246,7 +250,7 @@ With the rapid advancement of Large Vision-Language Models (LVLMs), also referre
 * **[2024.06.17]** **[SPA-VL: A Comprehensive Safety Preference Alignment Dataset for Vision Language Model](https://arxiv.org/abs/2406.12030)** [![GitHub stars](https://img.shields.io/github/stars/echosechen/spa-vl-rlhf?style=social)](https://github.com/echosechen/spa-vl-rlhf)
   * Yongting Zhang, Lu Chen, Guodong Zheng, Yifeng Gao, Rui Zheng, Jinlan Fu, Zhenfei Yin, Senjie Jin, Yu Qiao, Xuanjing Huang, Feng Zhao, Tao Gui, Jing Shao
   * University of Science and Technology of China, Fudan University, Shanghai Artificial Intelligence Laboratory
-  * [arXiv'24]
+  * [CVPR'25]
 * **[2024.07.20]** **[Sim-CLIP: Unsupervised Siamese Adversarial Fine-Tuning for Robust and Semantically-Rich Vision-Language Models](https://arxiv.org/abs/2407.14971v2)** [![GitHub stars](https://img.shields.io/github/stars/speedlab-git/SimCLIP?style=social)](https://github.com/speedlab-git/SimCLIP)
   * Md Zarif Hossain, Ahmed Imteaj
   * Southern Illinois University, Security, Privacy and Intelligence for Edge Devices Laboratory
@@ -266,7 +270,7 @@ With the rapid advancement of Large Vision-Language Models (LVLMs), also referre
 * **[2024.09.11]** **[Sim-CLIP+: Securing Vision-Language Models with a Robust Encoder Against Jailbreak and Adversarial Attacks](https://arxiv.org/abs/2409.07353)**
   * Md Zarif Hossain, Ahmed Imteaj
   * Southern Illinois University, Security, Privacy and Intelligence for Edge Devices Laboratory
-  * [arXiv'24]
+  * [BigData'24]
 * **[2024.09.17]** **[CoCA: Regaining Safety-awareness of Multimodal Large Language Models with Constitutional Calibration](https://arxiv.org/abs/2409.11365)**
   * Jiahui Gao, Renjie Pi, Tianyang Han, Han Wu, Lanqing Hong, Lingpeng Kong, Xin Jiang, Zhenguo Li
   * Noah’s Ark Lab, The Hong Kong University of Science and Technology, The Hong Kong Polytechnic University, The University of Hong Kong
@@ -347,6 +351,10 @@ With the rapid advancement of Large Vision-Language Models (LVLMs), also referre
   * Jiaming Ji, Xinyu Chen, Rui Pan, Han Zhu, Conghui Zhang, Jiahao Li, Donghai Hong, Boyuan Chen, Jiayi Zhou, Kaile Wang, Juntao Dai, Chi-Min Chan, Sirui Han, Yike Guo, Yaodong Yang
   * Peking University, Hong Kong University of Science and Technology
   * [arXiv'25]
+* **[2025.04.03]** [**JailDAM: Jailbreak Detection with Adaptive Memory for Vision-Language Model**](https://arxiv.org/abs/2504.03770) [![GitHub stars](https://img.shields.io/github/stars/ShenzheZhu/JailDAM?style=social)](https://github.com/ShenzheZhu/JailDAM)
+  * Yi Nian, Shenzhe Zhu, Yuehan Qin, Li Li, Ziyi Wang, Chaowei Xiao, Yue Zhao
+  * University of Southern California, University of Toronto, University of Maryland, University of Wisconsin-Madison
+  * [COLM'25]
 * **[2025.04.17]** **[VLMGuard-R1: Proactive Safety Alignment for VLMs via Reasoning-Driven Prompt Optimization](https://www.arxiv.org/abs/2504.12661)**
   * Menglan Chen, Xianghe Pang, Jingjing Dong, WenHao Wang, Yaxin Du, Siheng Chen
   * Shanghai Jiao Tong University
@@ -421,8 +429,7 @@ With the rapid advancement of Large Vision-Language Models (LVLMs), also referre
   * Zonghao Ying, Aishan Liu, Siyuan Liang, Lei Huang, Jinyang Guo, Wenbo Zhou, Xianglong Liu, Dacheng Tao
   * Beihang University, National University of Singapore, Zhongguancun Laboratory, Hefei Comprehensive National Science Center, University of Science and Technology of China, Nanyang Technological University, Singapore
   * [arXiv'24]
-* **[2024.11.29]** **[VLSBench: Unveiling Visual Leakage in Multimodal Safety
-](https://arxiv.org/abs/2411.19939)** [![GitHub stars](https://img.shields.io/github/stars/AI45Lab/VLSBench?style=social)](https://github.com/AI45Lab/VLSBench)
+* **[2024.11.29]** **[VLSBench: Unveiling Visual Leakage in Multimodal Safety](https://arxiv.org/abs/2411.19939)** [![GitHub stars](https://img.shields.io/github/stars/AI45Lab/VLSBench?style=social)](https://github.com/AI45Lab/VLSBench)
   * Xuhao Hu, Dongrui Liu, Hao Li, Xuanjing Huang, Jing Shao
   * Shanghai Artificial Intelligence Laboratory, Fudan University, Beihang University
   * [arXiv'24]
