@@ -441,6 +441,10 @@ With the rapid advancement of Large Vision-Language Models (LVLMs), also referre
   * DongGeon Lee, Joonwon Jang, Jihae Jeong, Hwanjo Yu
   * POSTECH, LG AI Research
   * [EMNLP'25]
+* **[2025.05.16]** **[GuardReasoner-VL: Safeguarding VLMs via Reinforced Reasoning](https://arxiv.org/abs/2505.11049)**
+  * Yue Liu, Shengfang Zhai, Mingzhe Du, Yulin Chen, Tri Cao, Hongcheng Gao, Cheng Wang, Xinfeng Li, Kun Wang, Junfeng Fang, Jiaheng Zhang, Bryan Hooi
+  * NUS, NTU
+  * [NeurIPS'25]
 * **[2025.06.11]** **[HoliSafe: Holistic Safety Benchmarking and Modeling with Safety Meta Token for Vision-Language Model](https://www.arxiv.org/abs/2506.04704)**
   * Youngwan Lee, Kangsan Kim, Kwanyong Park, Ilcahe Jung, Soojin Jang, Seanie Lee, Yong-Ju Lee, Sung Ju Hwang
   * ETRI, KAIST AI, University of Seoul, DeepAuto
