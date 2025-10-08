@@ -441,7 +441,7 @@ With the rapid advancement of Large Vision-Language Models (LVLMs), also referre
   * DongGeon Lee, Joonwon Jang, Jihae Jeong, Hwanjo Yu
   * POSTECH, LG AI Research
   * [EMNLP'25]
-* **[2025.05.16]** **[GuardReasoner-VL: Safeguarding VLMs via Reinforced Reasoning](https://arxiv.org/abs/2505.11049)**
+* **[2025.05.16]** **[GuardReasoner-VL: Safeguarding VLMs via Reinforced Reasoning](https://arxiv.org/abs/2505.11049)** [![GitHub stars](https://img.shields.io/github.com/yueliu1999/GuardReasoner-VL?style=social)](https://github.com/yueliu1999/GuardReasoner-VL)
   * Yue Liu, Shengfang Zhai, Mingzhe Du, Yulin Chen, Tri Cao, Hongcheng Gao, Cheng Wang, Xinfeng Li, Kun Wang, Junfeng Fang, Jiaheng Zhang, Bryan Hooi
   * NUS, NTU
   * [NeurIPS'25]
