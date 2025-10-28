@@ -32,61 +32,61 @@ With the rapid advancement of Large Vision-Language Models (LVLMs), also referre
   * Youngwan Lee, Kangsan Kim, Kwanyong Park, Ilcahe Jung, Soojin Jang, Seanie Lee, Yong-Ju Lee, Sung Ju Hwang
   * ETRI, KAIST AI, University of Seoul, DeepAuto
   * [arXiv'25]
-* **[2025.05.16]** **[GuardReasoner-VL: Safeguarding VLMs via Reinforced Reasoning](https://arxiv.org/abs/2505.11049)** [![GitHub stars](https://img.shields.io/github/stars/yueliu1999/GuardReasoner-VL?style=social)](https://github.com/yueliu1999/GuardReasoner-VL)
-  * Yue Liu, Shengfang Zhai, Mingzhe Du, Yulin Chen, Tri Cao, Hongcheng Gao, Cheng Wang, Xinfeng Li, Kun Wang, Junfeng Fang, Jiaheng Zhang, Bryan Hooi
-  * NUS, NTU
-  * [NeurIPS'25]
 * **[2025.05.21]** **[Are Vision-Language Models Safe in the Wild? A Meme-Based Benchmark Study](https://arxiv.org/abs/2505.15389)** [![GitHub stars](https://img.shields.io/github/stars/oneonlee/meme-safety-bench?style=social)](https://github.com/oneonlee/meme-safety-bench)
   * DongGeon Lee, Joonwon Jang, Jihae Jeong, Hwanjo Yu
   * POSTECH, LG AI Research
   * [EMNLP'25]
-* **[2024.03.14]** **[AVIBench: Towards Evaluating the Robustness of Large Vision-Language Model on Adversarial Visual-Instructions](https://arxiv.org/abs/2403.09346)** [![GitHub stars](https://img.shields.io/github/stars/zhanghao5201/b-avibench?style=social)](https://github.com/zhanghao5201/b-avibench)
-  * Hao Zhang, Wenqi Shao, Hong Liu, Yongqiang Ma, Ping Luo, Yu Qiao, Nanning Zheng, Kaipeng Zhang
-  * Xi’an Jiaotong University, Shanghai Artificial Intelligence Laboratory, Osaka University
+* **[2025.05.16]** **[GuardReasoner-VL: Safeguarding VLMs via Reinforced Reasoning](https://arxiv.org/abs/2505.11049)** [![GitHub stars](https://img.shields.io/github/stars/yueliu1999/GuardReasoner-VL?style=social)](https://github.com/yueliu1999/GuardReasoner-VL)
+  * Yue Liu, Shengfang Zhai, Mingzhe Du, Yulin Chen, Tri Cao, Hongcheng Gao, Cheng Wang, Xinfeng Li, Kun Wang, Junfeng Fang, Jiaheng Zhang, Bryan Hooi
+  * NUS, NTU
+  * [NeurIPS'25]
+* **[2024.11.29]** **[VLSBench: Unveiling Visual Leakage in Multimodal Safety](https://arxiv.org/abs/2411.19939)** [![GitHub stars](https://img.shields.io/github/stars/AI45Lab/VLSBench?style=social)](https://github.com/AI45Lab/VLSBench)
+  * Xuhao Hu, Dongrui Liu, Hao Li, Xuanjing Huang, Jing Shao
+  * Shanghai Artificial Intelligence Laboratory, Fudan University, Beihang University
   * [arXiv'24]
-* **[2024.04.03]** **[JailBreakV-28K: A Benchmark for Assessing the Robustness of MultiModal Large Language Models against Jailbreak Attacks](https://arxiv.org/abs/2404.03027)** [![GitHub stars](https://img.shields.io/github/stars/EddyLuo1232/JailBreakV_28K?style=social)](https://github.com/EddyLuo1232/JailBreakV_28K)
-  * Weidi Luo, Siyuan Ma, Xiaogeng Liu, Xiaoyu Guo, Chaowei Xiao
-  * The Ohio State University, Peking University, University of Wisconsin-Madison
-  * [COLM'24]
-* **[2024.04.04]** **[Red Teaming GPT-4V: Are GPT-4V Safe Against Uni/Multi-Modal Jailbreak Attacks?](https://arxiv.org/abs/2404.03411)** [![GitHub stars](https://img.shields.io/github/stars/chenxshuo/redteaminggpt4v?style=social)](https://github.com/chenxshuo/redteaminggpt4v)
-  * Shuo Chen, Zhen Han, Bailan He, Zifeng Ding, Wenqian Yu, Philip Torr, Volker Tresp, Jindong Gu
-  * LMU Munich, University of Oxford, Siemens AG, Munich Center for Machine Learning (MCML), Wuhan University
-  * [ICLR'24]
-* **[2024.06.11]** **[MultiTrust: A Comprehensive Benchmark Towards Trustworthy Multimodal Large Language Models](https://arxiv.org/abs/2406.07057)** [![GitHub stars](https://img.shields.io/github/stars/thu-ml/MMTrustEval?style=social)](https://github.com/thu-ml/MMTrustEval)
-  * Yichi Zhang, Yao Huang, Yitong Sun, Chang Liu, Zhe Zhao, Zhengwei Fang, Yifan Wang, Huanran Chen, Xiao Yang, Xingxing Wei, Hang Su, Yinpeng Dong, Jun Zhu
-  * Tsinghua University,  Beihang University, Shanghai Jiao Tong University, RealAI, Pazhou Lab (Huangpu)
-  * [NeurIPS'24]
-* **[2024.06.11]** **[MLLMGuard: A Multi-dimensional Safety Evaluation Suite for Multimodal Large Language Models](https://arxiv.org/abs/2406.07594)** [![GitHub stars](https://img.shields.io/github/stars/AI45Lab/MLLMGuard?style=social)](https://github.com/AI45Lab/MLLMGuard)
-  * Tianle Gu, Zeyang Zhou, Kexin Huang, Dandan Liang, Yixu Wang, Haiquan Zhao, Yuanqi Yao, Xingge Qiao, Keqing Wang, Yujiu Yang, Yan Teng, Yu Qiao, Yingchun Wang
-  * Tsinghua Shenzhen International Graduate School, Shanghai Artificial Intelligence Laboratory
-  * [NeurIPS'24]
-* **[2024.06.21]** **[Cross-Modality Safety Alignment](https://arxiv.org/abs/2406.15279)** [![GitHub stars](https://img.shields.io/github/stars/sinwang20/siuo?style=social)](https://github.com/sinwang20/siuo)
-  * Siyin Wang, Xingsong Ye, Qinyuan Cheng, Junwen Duan, Shimin Li, Jinlan Fu, Xipeng Qiu, Xuanjing Huang
-  * Fudan University, National University of Singapore, Shanghai AI Laboratory
-  * [NAACL'25]
-* **[2024.06.22]** **[MOSSBench: Is Your Multimodal Language Model Oversensitive to Safe Queries?](https://arxiv.org/abs/2406.17806)** [![GitHub stars](https://img.shields.io/github/stars/xirui-li/MOSSBench?style=social)](https://github.com/xirui-li/MOSSBench)
-  * Xirui Li, Hengguang Zhou, Ruochen Wang, Tianyi Zhou, Minhao Cheng, Cho-Jui Hsieh
-  * University of California, LA,  University of Maryland, Pennsylvania State University
-  * [ICLR'25]
-* **[2024.07.21]** **[Arondight: Red Teaming Large Vision Language Models with Auto-generated Multi-modal Jailbreak Prompts](https://arxiv.org/abs/2407.15050)**
-  * Yi Liu, Chengjun Cai, Xiaoli Zhang, Xingliang Yuan, Cong Wang
-  * City University of Hong Kong, University of Science and Technology, The University of Melbourne
-  * [MM'24]
-* **[2024.08.15]** **[MMJ-Bench: A Comprehensive Study on Jailbreak Attacks and Defenses for Multimodal Large Language Models](https://arxiv.org/abs/2408.08464)** [![GitHub stars](https://img.shields.io/github/stars/thunxxx/MLLM-Jailbreak-evaluation-MMJ-bench?style=social)](https://github.com/thunxxx/MLLM-Jailbreak-evaluation-MMJ-bench)
-  * Fenghua Weng, Yue Xu, Chengyan Fu, Wenjie Wang
-  * ShanghaiTech University
+* **[2024.10.24]** **[SafeBench: A Safety Evaluation Framework for Multimodal Large Language Models](https://arxiv.org/abs/2410.18927)**
+  * Zonghao Ying, Aishan Liu, Siyuan Liang, Lei Huang, Jinyang Guo, Wenbo Zhou, Xianglong Liu, Dacheng Tao
+  * Beihang University, National University of Singapore, Zhongguancun Laboratory, Hefei Comprehensive National Science Center, University of Science and Technology of China, Nanyang Technological University, Singapore
   * [arXiv'24]
 * **[2024.10.08]** **[Multimodal Situational Safety](https://arxiv.org/abs/2410.06172)** [![GitHub stars](https://img.shields.io/github/stars/eric-ai-lab/MSSBench?style=social)](https://github.com/eric-ai-lab/MSSBench)
   * Kaiwen Zhou, Chengzhi Liu, Xuandong Zhao, Anderson Compalas, Dawn Song, Xin Eric Wang
   * University of California, Santa Cruz, University of California, Berkeley
   * [ICLR'25]
-* **[2024.10.24]** **[SafeBench: A Safety Evaluation Framework for Multimodal Large Language Models](https://arxiv.org/abs/2410.18927)**
-  * Zonghao Ying, Aishan Liu, Siyuan Liang, Lei Huang, Jinyang Guo, Wenbo Zhou, Xianglong Liu, Dacheng Tao
-  * Beihang University, National University of Singapore, Zhongguancun Laboratory, Hefei Comprehensive National Science Center, University of Science and Technology of China, Nanyang Technological University, Singapore
+* **[2024.08.15]** **[MMJ-Bench: A Comprehensive Study on Jailbreak Attacks and Defenses for Multimodal Large Language Models](https://arxiv.org/abs/2408.08464)** [![GitHub stars](https://img.shields.io/github/stars/thunxxx/MLLM-Jailbreak-evaluation-MMJ-bench?style=social)](https://github.com/thunxxx/MLLM-Jailbreak-evaluation-MMJ-bench)
+  * Fenghua Weng, Yue Xu, Chengyan Fu, Wenjie Wang
+  * ShanghaiTech University
   * [arXiv'24]
-* **[2024.11.29]** **[VLSBench: Unveiling Visual Leakage in Multimodal Safety](https://arxiv.org/abs/2411.19939)** [![GitHub stars](https://img.shields.io/github/stars/AI45Lab/VLSBench?style=social)](https://github.com/AI45Lab/VLSBench)
-  * Xuhao Hu, Dongrui Liu, Hao Li, Xuanjing Huang, Jing Shao
-  * Shanghai Artificial Intelligence Laboratory, Fudan University, Beihang University
+* **[2024.07.21]** **[Arondight: Red Teaming Large Vision Language Models with Auto-generated Multi-modal Jailbreak Prompts](https://arxiv.org/abs/2407.15050)**
+  * Yi Liu, Chengjun Cai, Xiaoli Zhang, Xingliang Yuan, Cong Wang
+  * City University of Hong Kong, University of Science and Technology, The University of Melbourne
+  * [MM'24]
+* **[2024.06.22]** **[MOSSBench: Is Your Multimodal Language Model Oversensitive to Safe Queries?](https://arxiv.org/abs/2406.17806)** [![GitHub stars](https://img.shields.io/github/stars/xirui-li/MOSSBench?style=social)](https://github.com/xirui-li/MOSSBench)
+  * Xirui Li, Hengguang Zhou, Ruochen Wang, Tianyi Zhou, Minhao Cheng, Cho-Jui Hsieh
+  * University of California, LA,  University of Maryland, Pennsylvania State University
+  * [ICLR'25]
+* **[2024.06.21]** **[Cross-Modality Safety Alignment](https://arxiv.org/abs/2406.15279)** [![GitHub stars](https://img.shields.io/github/stars/sinwang20/siuo?style=social)](https://github.com/sinwang20/siuo)
+  * Siyin Wang, Xingsong Ye, Qinyuan Cheng, Junwen Duan, Shimin Li, Jinlan Fu, Xipeng Qiu, Xuanjing Huang
+  * Fudan University, National University of Singapore, Shanghai AI Laboratory
+  * [NAACL'25]
+* **[2024.06.11]** **[MLLMGuard: A Multi-dimensional Safety Evaluation Suite for Multimodal Large Language Models](https://arxiv.org/abs/2406.07594)** [![GitHub stars](https://img.shields.io/github/stars/AI45Lab/MLLMGuard?style=social)](https://github.com/AI45Lab/MLLMGuard)
+  * Tianle Gu, Zeyang Zhou, Kexin Huang, Dandan Liang, Yixu Wang, Haiquan Zhao, Yuanqi Yao, Xingge Qiao, Keqing Wang, Yujiu Yang, Yan Teng, Yu Qiao, Yingchun Wang
+  * Tsinghua Shenzhen International Graduate School, Shanghai Artificial Intelligence Laboratory
+  * [NeurIPS'24]
+* **[2024.06.11]** **[MultiTrust: A Comprehensive Benchmark Towards Trustworthy Multimodal Large Language Models](https://arxiv.org/abs/2406.07057)** [![GitHub stars](https://img.shields.io/github/stars/thu-ml/MMTrustEval?style=social)](https://github.com/thu-ml/MMTrustEval)
+  * Yichi Zhang, Yao Huang, Yitong Sun, Chang Liu, Zhe Zhao, Zhengwei Fang, Yifan Wang, Huanran Chen, Xiao Yang, Xingxing Wei, Hang Su, Yinpeng Dong, Jun Zhu
+  * Tsinghua University,  Beihang University, Shanghai Jiao Tong University, RealAI, Pazhou Lab (Huangpu)
+  * [NeurIPS'24]
+* **[2024.04.04]** **[Red Teaming GPT-4V: Are GPT-4V Safe Against Uni/Multi-Modal Jailbreak Attacks?](https://arxiv.org/abs/2404.03411)** [![GitHub stars](https://img.shields.io/github/stars/chenxshuo/redteaminggpt4v?style=social)](https://github.com/chenxshuo/redteaminggpt4v)
+  * Shuo Chen, Zhen Han, Bailan He, Zifeng Ding, Wenqian Yu, Philip Torr, Volker Tresp, Jindong Gu
+  * LMU Munich, University of Oxford, Siemens AG, Munich Center for Machine Learning (MCML), Wuhan University
+  * [ICLR'24]
+* **[2024.04.03]** **[JailBreakV-28K: A Benchmark for Assessing the Robustness of MultiModal Large Language Models against Jailbreak Attacks](https://arxiv.org/abs/2404.03027)** [![GitHub stars](https://img.shields.io/github/stars/EddyLuo1232/JailBreakV_28K?style=social)](https://github.com/EddyLuo1232/JailBreakV_28K)
+  * Weidi Luo, Siyuan Ma, Xiaogeng Liu, Xiaoyu Guo, Chaowei Xiao
+  * The Ohio State University, Peking University, University of Wisconsin-Madison
+  * [COLM'24]
+* **[2024.03.14]** **[AVIBench: Towards Evaluating the Robustness of Large Vision-Language Model on Adversarial Visual-Instructions](https://arxiv.org/abs/2403.09346)** [![GitHub stars](https://img.shields.io/github/stars/zhanghao5201/b-avibench?style=social)](https://github.com/zhanghao5201/b-avibench)
+  * Hao Zhang, Wenqi Shao, Hong Liu, Yongqiang Ma, Ping Luo, Yu Qiao, Nanning Zheng, Kaipeng Zhang
+  * Xi’an Jiaotong University, Shanghai Artificial Intelligence Laboratory, Osaka University
   * [arXiv'24]
 * **[2024.02.29]** **[Unveiling Typographic Deceptions: Insights of the Typographic Vulnerability in Large Vision-Language Model](https://arxiv.org/abs/2402.19150)** [![GitHub stars](https://img.shields.io/github/stars/ChaduCheng/TypoDeceptions?style=social)](https://github.com/ChaduCheng/TypoDeceptions)
   * Hao Cheng, Erjia Xiao, Jindong Gu, Le Yang, Jinhao Duan, Jize Zhang, Jiahang Cao, Kaidi Xu, Renjing Xu
