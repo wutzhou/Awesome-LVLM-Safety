@@ -79,31 +79,31 @@ With the rapid advancement of Large Vision-Language Models (LVLMs), also referre
 * **[2024.04.04]** **[Red Teaming GPT-4V: Are GPT-4V Safe Against Uni/Multi-Modal Jailbreak Attacks?](https://arxiv.org/abs/2404.03411)** [![GitHub stars](https://img.shields.io/github/stars/chenxshuo/redteaminggpt4v?style=social)](https://github.com/chenxshuo/redteaminggpt4v)
   * Shuo Chen, Zhen Han, Bailan He, Zifeng Ding, Wenqian Yu, Philip Torr, Volker Tresp, Jindong Gu
   * LMU Munich, University of Oxford, Siemens AG, Munich Center for Machine Learning (MCML), Wuhan University
-  * [ICLR'24]
+  * [ICLR'24] [31 cites](https://scholar.google.com/scholar?cites=15805891494658214406&as_sdt=2005&sciodt=0,5&hl=en)
 * **[2024.04.03]** **[JailBreakV-28K: A Benchmark for Assessing the Robustness of MultiModal Large Language Models against Jailbreak Attacks](https://arxiv.org/abs/2404.03027)** [![GitHub stars](https://img.shields.io/github/stars/EddyLuo1232/JailBreakV_28K?style=social)](https://github.com/EddyLuo1232/JailBreakV_28K)
   * Weidi Luo, Siyuan Ma, Xiaogeng Liu, Xiaoyu Guo, Chaowei Xiao
   * The Ohio State University, Peking University, University of Wisconsin-Madison
-  * [COLM'24]
+  * [COLM'24][128 cites](https://scholar.google.com/scholar?cites=601264157085775298&as_sdt=2005&sciodt=0,5&hl=en)
 * **[2024.03.14]** **[AVIBench: Towards Evaluating the Robustness of Large Vision-Language Model on Adversarial Visual-Instructions](https://arxiv.org/abs/2403.09346)** [![GitHub stars](https://img.shields.io/github/stars/zhanghao5201/b-avibench?style=social)](https://github.com/zhanghao5201/b-avibench)
   * Hao Zhang, Wenqi Shao, Hong Liu, Yongqiang Ma, Ping Luo, Yu Qiao, Nanning Zheng, Kaipeng Zhang
   * Xi’an Jiaotong University, Shanghai Artificial Intelligence Laboratory, Osaka University
-  * [arXiv'24]
+  * [arXiv'24][32 cites](https://scholar.google.com/scholar?cites=17438663939423805230&as_sdt=2005&sciodt=0,5&hl=en)
 * **[2024.02.29]** **[Unveiling Typographic Deceptions: Insights of the Typographic Vulnerability in Large Vision-Language Model](https://arxiv.org/abs/2402.19150)** [![GitHub stars](https://img.shields.io/github/stars/ChaduCheng/TypoDeceptions?style=social)](https://github.com/ChaduCheng/TypoDeceptions)
   * Hao Cheng, Erjia Xiao, Jindong Gu, Le Yang, Jinhao Duan, Jize Zhang, Jiahang Cao, Kaidi Xu, Renjing Xu
   * The Hong Kong University of Science and Technology (Guangzhou), University of Oxford, Xi’an Jiaotong University, Drexel University, The Hong Kong University of Science and Technology
-  * [ECCV'24]
+  * [ECCV'24][22 cites](https://scholar.google.com/scholar?cites=17043838321063290074&as_sdt=2005&sciodt=0,5&hl=en)
 * **[2024.01.23]** **[Red Teaming Visual Language Models](https://arxiv.org/abs/2401.12915)** [![GitHub stars](https://img.shields.io/github/stars/kiaia/RedTeamVLM?style=social)](https://github.com/kiaia/RedTeamVLM)
   * Mukai Li, Lei Li, Yuwei Yin, Masood Ahmed, Zhenguang Liu, Qi Liu
   * The University of Hong Kong, Zhejiang University
-  * [ACL'24]
+  * [ACL'24][91 cites](https://scholar.google.com/scholar?cites=1877211105424539289&as_sdt=2005&sciodt=0,5&hl=en)
 * **[2023.11.29]** **[MM-SafetyBench: A Benchmark for Safety Evaluation of Multimodal Large Language Models](https://arxiv.org/abs/2311.17600)** [![GitHub stars](https://img.shields.io/github/stars/isxinliu/mm-safetybench?style=social)](https://github.com/isxinliu/mm-safetybench)
   * Xin Liu, Yichen Zhu, Jindong Gu, Yunshi Lan, Chao Yang, Yu Qiao
   * Shanghai AI Laboratory, East China Normal University, Midea Group, University of Oxford
-  * [ECCV'24]
+  * [ECCV'24][195 cites](https://scholar.google.com/scholar?cites=3879980150337819338&as_sdt=2005&sciodt=0,5&hl=en)
 * **[2023.11.27]** **[How Many Unicorns Are in This Image? A Safety Evaluation Benchmark for Vision LLMs](https://arxiv.org/abs/2311.16101)** [![GitHub stars](https://img.shields.io/github/stars/UCSC-VLAA/vllm-safety-benchmark?style=social)](https://github.com/UCSC-VLAA/vllm-safety-benchmark)
   * Haoqin Tu, Chenhang Cui, Zijun Wang, Yiyang Zhou, Bingchen Zhao, Junlin Han, Wangchunshu Zhou, Huaxiu Yao, Cihang Xie
   * UC Santa Cruz, UNC-Chapel Hill, University of Edinburgh , University of Oxford, AIWaves Inc.
-  * [ECCV'24]
+  * [ECCV'24][89 cites](https://scholar.google.com/scholar?cites=7169426009561167635&as_sdt=2005&sciodt=0,5&hl=en)
 
 <h3 id="attacks"> <img src="assets/attack.png" alt="Icon" width="20" style="vertical-align:middle"/> Attacks </h3>
 
