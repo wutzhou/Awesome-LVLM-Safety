@@ -31,51 +31,51 @@ With the rapid advancement of Large Vision-Language Models (LVLMs), also referre
 * **[2025.06.11]** **[HoliSafe: Holistic Safety Benchmarking and Modeling with Safety Meta Token for Vision-Language Model](https://www.arxiv.org/abs/2506.04704)**
   * Youngwan Lee, Kangsan Kim, Kwanyong Park, Ilcahe Jung, Soojin Jang, Seanie Lee, Yong-Ju Lee, Sung Ju Hwang
   * ETRI, KAIST AI, University of Seoul, DeepAuto
-  * [arXiv'25]
+  * [arXiv'25] [4 cites](https://scholar.google.com/scholar?cites=2646518174792062051&as_sdt=2005&sciodt=0,5&hl=en)
 * **[2025.05.21]** **[Are Vision-Language Models Safe in the Wild? A Meme-Based Benchmark Study](https://arxiv.org/abs/2505.15389)** [![GitHub stars](https://img.shields.io/github/stars/oneonlee/meme-safety-bench?style=social)](https://github.com/oneonlee/meme-safety-bench)
   * DongGeon Lee, Joonwon Jang, Jihae Jeong, Hwanjo Yu
   * POSTECH, LG AI Research
-  * [EMNLP'25]
+  * [EMNLP'25] [1 cite](https://scholar.google.com/scholar?cites=7027376948167820685&as_sdt=2005&sciodt=0,5&hl=en)
 * **[2025.05.16]** **[GuardReasoner-VL: Safeguarding VLMs via Reinforced Reasoning](https://arxiv.org/abs/2505.11049)** [![GitHub stars](https://img.shields.io/github/stars/yueliu1999/GuardReasoner-VL?style=social)](https://github.com/yueliu1999/GuardReasoner-VL)
   * Yue Liu, Shengfang Zhai, Mingzhe Du, Yulin Chen, Tri Cao, Hongcheng Gao, Cheng Wang, Xinfeng Li, Kun Wang, Junfeng Fang, Jiaheng Zhang, Bryan Hooi
   * NUS, NTU
-  * [NeurIPS'25]
+  * [NeurIPS'25] [18 cites](https://scholar.google.com/scholar?cites=1807741045097825219&as_sdt=2005&sciodt=0,5&hl=en)
 * **[2024.11.29]** **[VLSBench: Unveiling Visual Leakage in Multimodal Safety](https://arxiv.org/abs/2411.19939)** [![GitHub stars](https://img.shields.io/github/stars/AI45Lab/VLSBench?style=social)](https://github.com/AI45Lab/VLSBench)
   * Xuhao Hu, Dongrui Liu, Hao Li, Xuanjing Huang, Jing Shao
   * Shanghai Artificial Intelligence Laboratory, Fudan University, Beihang University
-  * [arXiv'24]
+  * [arXiv'24][32 cites](https://scholar.google.com/scholar?cites=2269756386425953080&as_sdt=2005&sciodt=0,5&hl=en)
 * **[2024.10.24]** **[SafeBench: A Safety Evaluation Framework for Multimodal Large Language Models](https://arxiv.org/abs/2410.18927)**
   * Zonghao Ying, Aishan Liu, Siyuan Liang, Lei Huang, Jinyang Guo, Wenbo Zhou, Xianglong Liu, Dacheng Tao
   * Beihang University, National University of Singapore, Zhongguancun Laboratory, Hefei Comprehensive National Science Center, University of Science and Technology of China, Nanyang Technological University, Singapore
-  * [arXiv'24]
+  * [arXiv'24][56 cites](https://scholar.google.com/scholar?cites=5608561022299439034&as_sdt=2005&sciodt=0,5&hl=en)
 * **[2024.10.08]** **[Multimodal Situational Safety](https://arxiv.org/abs/2410.06172)** [![GitHub stars](https://img.shields.io/github/stars/eric-ai-lab/MSSBench?style=social)](https://github.com/eric-ai-lab/MSSBench)
   * Kaiwen Zhou, Chengzhi Liu, Xuandong Zhao, Anderson Compalas, Dawn Song, Xin Eric Wang
   * University of California, Santa Cruz, University of California, Berkeley
-  * [ICLR'25]
+  * [ICLR'25][39 cites](https://scholar.google.com/scholar?cites=9427281866629695472&as_sdt=2005&sciodt=0,5&hl=en)
 * **[2024.08.15]** **[MMJ-Bench: A Comprehensive Study on Jailbreak Attacks and Defenses for Multimodal Large Language Models](https://arxiv.org/abs/2408.08464)** [![GitHub stars](https://img.shields.io/github/stars/thunxxx/MLLM-Jailbreak-evaluation-MMJ-bench?style=social)](https://github.com/thunxxx/MLLM-Jailbreak-evaluation-MMJ-bench)
   * Fenghua Weng, Yue Xu, Chengyan Fu, Wenjie Wang
   * ShanghaiTech University
-  * [arXiv'24]
+  * [arXiv'24][1 cite](https://scholar.google.com/scholar?cites=1082261381433073104&as_sdt=2005&sciodt=0,5&hl=en)
 * **[2024.07.21]** **[Arondight: Red Teaming Large Vision Language Models with Auto-generated Multi-modal Jailbreak Prompts](https://arxiv.org/abs/2407.15050)**
   * Yi Liu, Chengjun Cai, Xiaoli Zhang, Xingliang Yuan, Cong Wang
   * City University of Hong Kong, University of Science and Technology, The University of Melbourne
-  * [MM'24]
+  * [MM'24][37 cites](https://scholar.google.com/scholar?cites=7727036423346768328&as_sdt=2005&sciodt=0,5&hl=en)
 * **[2024.06.22]** **[MOSSBench: Is Your Multimodal Language Model Oversensitive to Safe Queries?](https://arxiv.org/abs/2406.17806)** [![GitHub stars](https://img.shields.io/github/stars/xirui-li/MOSSBench?style=social)](https://github.com/xirui-li/MOSSBench)
   * Xirui Li, Hengguang Zhou, Ruochen Wang, Tianyi Zhou, Minhao Cheng, Cho-Jui Hsieh
   * University of California, LA,  University of Maryland, Pennsylvania State University
-  * [ICLR'25]
-* **[2024.06.21]** **[Cross-Modality Safety Alignment](https://arxiv.org/abs/2406.15279)** [![GitHub stars](https://img.shields.io/github/stars/sinwang20/siuo?style=social)](https://github.com/sinwang20/siuo)
+  * [ICLR'25][19 cites](https://scholar.google.com/scholar?cites=5305871643747149939&as_sdt=2005&sciodt=0,5&hl=en)
+* **[2024.06.21]** **[SIUO: Cross-Modality Safety Alignment](https://arxiv.org/abs/2406.15279)** [![GitHub stars](https://img.shields.io/github/stars/sinwang20/siuo?style=social)](https://github.com/sinwang20/siuo)
   * Siyin Wang, Xingsong Ye, Qinyuan Cheng, Junwen Duan, Shimin Li, Jinlan Fu, Xipeng Qiu, Xuanjing Huang
   * Fudan University, National University of Singapore, Shanghai AI Laboratory
-  * [NAACL'25]
+  * [NAACL'25][12 cites](https://scholar.google.com/scholar?cites=4189980694029144342&as_sdt=2005&sciodt=0,5&hl=en)
 * **[2024.06.11]** **[MLLMGuard: A Multi-dimensional Safety Evaluation Suite for Multimodal Large Language Models](https://arxiv.org/abs/2406.07594)** [![GitHub stars](https://img.shields.io/github/stars/AI45Lab/MLLMGuard?style=social)](https://github.com/AI45Lab/MLLMGuard)
   * Tianle Gu, Zeyang Zhou, Kexin Huang, Dandan Liang, Yixu Wang, Haiquan Zhao, Yuanqi Yao, Xingge Qiao, Keqing Wang, Yujiu Yang, Yan Teng, Yu Qiao, Yingchun Wang
   * Tsinghua Shenzhen International Graduate School, Shanghai Artificial Intelligence Laboratory
-  * [NeurIPS'24]
+  * [NeurIPS'24][46 cites](https://scholar.google.com/scholar?cites=4897359956064147638&as_sdt=2005&sciodt=0,5&hl=en)
 * **[2024.06.11]** **[MultiTrust: A Comprehensive Benchmark Towards Trustworthy Multimodal Large Language Models](https://arxiv.org/abs/2406.07057)** [![GitHub stars](https://img.shields.io/github/stars/thu-ml/MMTrustEval?style=social)](https://github.com/thu-ml/MMTrustEval)
   * Yichi Zhang, Yao Huang, Yitong Sun, Chang Liu, Zhe Zhao, Zhengwei Fang, Yifan Wang, Huanran Chen, Xiao Yang, Xingxing Wei, Hang Su, Yinpeng Dong, Jun Zhu
   * Tsinghua University,  Beihang University, Shanghai Jiao Tong University, RealAI, Pazhou Lab (Huangpu)
-  * [NeurIPS'24]
+  * [NeurIPS'24][31 cites](https://scholar.google.com/scholar?cites=12777705251628988173&as_sdt=2005&sciodt=0,5&hl=en)
 * **[2024.04.04]** **[Red Teaming GPT-4V: Are GPT-4V Safe Against Uni/Multi-Modal Jailbreak Attacks?](https://arxiv.org/abs/2404.03411)** [![GitHub stars](https://img.shields.io/github/stars/chenxshuo/redteaminggpt4v?style=social)](https://github.com/chenxshuo/redteaminggpt4v)
   * Shuo Chen, Zhen Han, Bailan He, Zifeng Ding, Wenqian Yu, Philip Torr, Volker Tresp, Jindong Gu
   * LMU Munich, University of Oxford, Siemens AG, Munich Center for Machine Learning (MCML), Wuhan University
