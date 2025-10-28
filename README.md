@@ -44,7 +44,7 @@ With the rapid advancement of Large Vision-Language Models (LVLMs), also referre
   * Xuhao Hu, Dongrui Liu, Hao Li, Xuanjing Huang, Jing Shao
   * Shanghai Artificial Intelligence Laboratory, Fudan University, Beihang University
   * [arXiv'24][32 cites](https://scholar.google.com/scholar?cites=2269756386425953080&as_sdt=2005&sciodt=0,5&hl=en)
-* **[2024.10.24]** **[SafeBench: A Safety Evaluation Framework for Multimodal Large Language Models](https://arxiv.org/abs/2410.18927)**
+* **[2024.10.24]** **[SafeBench: A Safety Evaluation Framework for Multimodal Large Language Models](https://arxiv.org/abs/2410.18927)** [![GitHub stars](https://img.shields.io/github/stars/NY1024/SafeBench?style=social)](https://github.com/NY1024/SafeBench)
   * Zonghao Ying, Aishan Liu, Siyuan Liang, Lei Huang, Jinyang Guo, Wenbo Zhou, Xianglong Liu, Dacheng Tao
   * Beihang University, National University of Singapore, Zhongguancun Laboratory, Hefei Comprehensive National Science Center, University of Science and Technology of China, Nanyang Technological University, Singapore
   * [arXiv'24][56 cites](https://scholar.google.com/scholar?cites=5608561022299439034&as_sdt=2005&sciodt=0,5&hl=en)
