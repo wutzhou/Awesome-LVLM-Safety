@@ -28,22 +28,18 @@ With the rapid advancement of Large Vision-Language Models (LVLMs), also referre
 
 <h3 id="evaluations"> <img src="assets/evaluation.png" alt="Icon" width="27" style="vertical-align:middle"/> Evaluations </h3>
 
-* **[2023.11.27]** **[How Many Unicorns Are in This Image? A Safety Evaluation Benchmark for Vision LLMs](https://arxiv.org/abs/2311.16101)** [![GitHub stars](https://img.shields.io/github/stars/UCSC-VLAA/vllm-safety-benchmark?style=social)](https://github.com/UCSC-VLAA/vllm-safety-benchmark)
-  * Haoqin Tu, Chenhang Cui, Zijun Wang, Yiyang Zhou, Bingchen Zhao, Junlin Han, Wangchunshu Zhou, Huaxiu Yao, Cihang Xie
-  * UC Santa Cruz, UNC-Chapel Hill, University of Edinburgh , University of Oxford, AIWaves Inc.
-  * [ECCV'24]
-* **[2023.11.29]** **[MM-SafetyBench: A Benchmark for Safety Evaluation of Multimodal Large Language Models](https://arxiv.org/abs/2311.17600)** [![GitHub stars](https://img.shields.io/github/stars/isxinliu/mm-safetybench?style=social)](https://github.com/isxinliu/mm-safetybench)
-  * Xin Liu, Yichen Zhu, Jindong Gu, Yunshi Lan, Chao Yang, Yu Qiao
-  * Shanghai AI Laboratory, East China Normal University, Midea Group, University of Oxford
-  * [ECCV'24]
-* **[2024.01.23]** **[Red Teaming Visual Language Models](https://arxiv.org/abs/2401.12915)** [![GitHub stars](https://img.shields.io/github/stars/kiaia/RedTeamVLM?style=social)](https://github.com/kiaia/RedTeamVLM)
-  * Mukai Li, Lei Li, Yuwei Yin, Masood Ahmed, Zhenguang Liu, Qi Liu
-  * The University of Hong Kong, Zhejiang University
-  * [ACL'24]
-* **[2024.02.29]** **[Unveiling Typographic Deceptions: Insights of the Typographic Vulnerability in Large Vision-Language Model](https://arxiv.org/abs/2402.19150)** [![GitHub stars](https://img.shields.io/github/stars/ChaduCheng/TypoDeceptions?style=social)](https://github.com/ChaduCheng/TypoDeceptions)
-  * Hao Cheng, Erjia Xiao, Jindong Gu, Le Yang, Jinhao Duan, Jize Zhang, Jiahang Cao, Kaidi Xu, Renjing Xu
-  * The Hong Kong University of Science and Technology (Guangzhou), University of Oxford, Xi’an Jiaotong University, Drexel University, The Hong Kong University of Science and Technology
-  * [ECCV'24]
+* **[2025.06.11]** **[HoliSafe: Holistic Safety Benchmarking and Modeling with Safety Meta Token for Vision-Language Model](https://www.arxiv.org/abs/2506.04704)**
+  * Youngwan Lee, Kangsan Kim, Kwanyong Park, Ilcahe Jung, Soojin Jang, Seanie Lee, Yong-Ju Lee, Sung Ju Hwang
+  * ETRI, KAIST AI, University of Seoul, DeepAuto
+  * [arXiv'25]
+* **[2025.05.16]** **[GuardReasoner-VL: Safeguarding VLMs via Reinforced Reasoning](https://arxiv.org/abs/2505.11049)** [![GitHub stars](https://img.shields.io/github/stars/yueliu1999/GuardReasoner-VL?style=social)](https://github.com/yueliu1999/GuardReasoner-VL)
+  * Yue Liu, Shengfang Zhai, Mingzhe Du, Yulin Chen, Tri Cao, Hongcheng Gao, Cheng Wang, Xinfeng Li, Kun Wang, Junfeng Fang, Jiaheng Zhang, Bryan Hooi
+  * NUS, NTU
+  * [NeurIPS'25]
+* **[2025.05.21]** **[Are Vision-Language Models Safe in the Wild? A Meme-Based Benchmark Study](https://arxiv.org/abs/2505.15389)** [![GitHub stars](https://img.shields.io/github/stars/oneonlee/meme-safety-bench?style=social)](https://github.com/oneonlee/meme-safety-bench)
+  * DongGeon Lee, Joonwon Jang, Jihae Jeong, Hwanjo Yu
+  * POSTECH, LG AI Research
+  * [EMNLP'25]
 * **[2024.03.14]** **[AVIBench: Towards Evaluating the Robustness of Large Vision-Language Model on Adversarial Visual-Instructions](https://arxiv.org/abs/2403.09346)** [![GitHub stars](https://img.shields.io/github/stars/zhanghao5201/b-avibench?style=social)](https://github.com/zhanghao5201/b-avibench)
   * Hao Zhang, Wenqi Shao, Hong Liu, Yongqiang Ma, Ping Luo, Yu Qiao, Nanning Zheng, Kaipeng Zhang
   * Xi’an Jiaotong University, Shanghai Artificial Intelligence Laboratory, Osaka University
@@ -92,18 +88,22 @@ With the rapid advancement of Large Vision-Language Models (LVLMs), also referre
   * Xuhao Hu, Dongrui Liu, Hao Li, Xuanjing Huang, Jing Shao
   * Shanghai Artificial Intelligence Laboratory, Fudan University, Beihang University
   * [arXiv'24]
-* **[2025.05.21]** **[Are Vision-Language Models Safe in the Wild? A Meme-Based Benchmark Study](https://arxiv.org/abs/2505.15389)** [![GitHub stars](https://img.shields.io/github/stars/oneonlee/meme-safety-bench?style=social)](https://github.com/oneonlee/meme-safety-bench)
-  * DongGeon Lee, Joonwon Jang, Jihae Jeong, Hwanjo Yu
-  * POSTECH, LG AI Research
-  * [EMNLP'25]
-* **[2025.05.16]** **[GuardReasoner-VL: Safeguarding VLMs via Reinforced Reasoning](https://arxiv.org/abs/2505.11049)** [![GitHub stars](https://img.shields.io/github/stars/yueliu1999/GuardReasoner-VL?style=social)](https://github.com/yueliu1999/GuardReasoner-VL)
-  * Yue Liu, Shengfang Zhai, Mingzhe Du, Yulin Chen, Tri Cao, Hongcheng Gao, Cheng Wang, Xinfeng Li, Kun Wang, Junfeng Fang, Jiaheng Zhang, Bryan Hooi
-  * NUS, NTU
-  * [NeurIPS'25]
-* **[2025.06.11]** **[HoliSafe: Holistic Safety Benchmarking and Modeling with Safety Meta Token for Vision-Language Model](https://www.arxiv.org/abs/2506.04704)**
-  * Youngwan Lee, Kangsan Kim, Kwanyong Park, Ilcahe Jung, Soojin Jang, Seanie Lee, Yong-Ju Lee, Sung Ju Hwang
-  * ETRI, KAIST AI, University of Seoul, DeepAuto
-  * [arXiv'25]
+* **[2024.02.29]** **[Unveiling Typographic Deceptions: Insights of the Typographic Vulnerability in Large Vision-Language Model](https://arxiv.org/abs/2402.19150)** [![GitHub stars](https://img.shields.io/github/stars/ChaduCheng/TypoDeceptions?style=social)](https://github.com/ChaduCheng/TypoDeceptions)
+  * Hao Cheng, Erjia Xiao, Jindong Gu, Le Yang, Jinhao Duan, Jize Zhang, Jiahang Cao, Kaidi Xu, Renjing Xu
+  * The Hong Kong University of Science and Technology (Guangzhou), University of Oxford, Xi’an Jiaotong University, Drexel University, The Hong Kong University of Science and Technology
+  * [ECCV'24]
+* **[2024.01.23]** **[Red Teaming Visual Language Models](https://arxiv.org/abs/2401.12915)** [![GitHub stars](https://img.shields.io/github/stars/kiaia/RedTeamVLM?style=social)](https://github.com/kiaia/RedTeamVLM)
+  * Mukai Li, Lei Li, Yuwei Yin, Masood Ahmed, Zhenguang Liu, Qi Liu
+  * The University of Hong Kong, Zhejiang University
+  * [ACL'24]
+* **[2023.11.29]** **[MM-SafetyBench: A Benchmark for Safety Evaluation of Multimodal Large Language Models](https://arxiv.org/abs/2311.17600)** [![GitHub stars](https://img.shields.io/github/stars/isxinliu/mm-safetybench?style=social)](https://github.com/isxinliu/mm-safetybench)
+  * Xin Liu, Yichen Zhu, Jindong Gu, Yunshi Lan, Chao Yang, Yu Qiao
+  * Shanghai AI Laboratory, East China Normal University, Midea Group, University of Oxford
+  * [ECCV'24]
+* **[2023.11.27]** **[How Many Unicorns Are in This Image? A Safety Evaluation Benchmark for Vision LLMs](https://arxiv.org/abs/2311.16101)** [![GitHub stars](https://img.shields.io/github/stars/UCSC-VLAA/vllm-safety-benchmark?style=social)](https://github.com/UCSC-VLAA/vllm-safety-benchmark)
+  * Haoqin Tu, Chenhang Cui, Zijun Wang, Yiyang Zhou, Bingchen Zhao, Junlin Han, Wangchunshu Zhou, Huaxiu Yao, Cihang Xie
+  * UC Santa Cruz, UNC-Chapel Hill, University of Edinburgh , University of Oxford, AIWaves Inc.
+  * [ECCV'24]
 
 <h3 id="attacks"> <img src="assets/attack.png" alt="Icon" width="20" style="vertical-align:middle"/> Attacks </h3>
 
