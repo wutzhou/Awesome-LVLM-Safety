@@ -28,7 +28,7 @@ With the rapid advancement of Large Vision-Language Models (LVLMs), also referre
 
 <h3 id="evaluations"> <img src="assets/evaluation.png" alt="Icon" width="27" style="vertical-align:middle"/> Evaluations </h3>
 
-* **[2025.06.11]** **[HoliSafe: Holistic Safety Benchmarking and Modeling with Safety Meta Token for Vision-Language Model](https://www.arxiv.org/abs/2506.04704)**
+* **[2025.06.11]** **[HoliSafe: Holistic Safety Benchmarking and Modeling with Safety Meta Token for Vision-Language Model](https://www.arxiv.org/abs/2506.04704)** [![GitHub stars](https://img.shields.io/github/stars/youngwanLEE/holisafe?style=social)](https://github.com/youngwanLEE/holisafe)
   * Youngwan Lee, Kangsan Kim, Kwanyong Park, Ilcahe Jung, Soojin Jang, Seanie Lee, Yong-Ju Lee, Sung Ju Hwang
   * ETRI, KAIST AI, University of Seoul, DeepAuto
   * [arXiv'25] [4 cites](https://scholar.google.com/scholar?cites=2646518174792062051&as_sdt=2005&sciodt=0,5&hl=en)
